@@ -5,19 +5,6 @@
 
 ---
 
-## 📂 ساختار پروژه
-
-├── notebooks/
-│ └── german.ipynb # کد اصلی و تحلیل
-├── results/
-│ ├── تحلیل_کامل_اعتباری.csv # خروجی فارسی
-│ └── german_credit_analysis.csv # خروجی انگلیسی
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
-
 بخش‌های تحلیل
 
 بررسی توزیع کلی وام‌های خوب و بد
