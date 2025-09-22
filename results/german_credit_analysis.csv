@@ -1,0 +1,1001 @@
+status,duration,credit_history,purpose,amount,savings,employment_duration,installment_rate,personal_status_sex,other_debtors,present_residence,property,age,other_installment_plans,housing,number_credits,job,people_liable,telephone,foreign_worker,credit_risk,age_group
+<0 DM,6,critical/other,radio/TV,1169,A65,>=7 years,4,A93,A101,4,A121,67,A143,A152,2,A173,1,A192,A201,1,66+
+0-200 DM,48,existing paid,radio/TV,5951,A61,1-4 years,2,A92,A101,2,A121,22,A143,A152,1,A173,1,A191,A201,0,18-25
+no account,12,critical/other,education,2096,A61,4-7 years,2,A93,A101,3,A121,49,A143,A152,1,A172,2,A191,A201,1,46-55
+<0 DM,42,existing paid,furniture/equipment,7882,A61,4-7 years,2,A93,A103,4,A122,45,A143,A153,1,A173,2,A191,A201,1,36-45
+<0 DM,24,delay paid,car (new),4870,A61,1-4 years,3,A93,A101,4,A124,53,A143,A153,2,A173,2,A191,A201,0,46-55
+no account,36,existing paid,education,9055,A65,1-4 years,2,A93,A101,4,A124,35,A143,A153,1,A172,2,A192,A201,1,26-35
+no account,24,existing paid,furniture/equipment,2835,A63,>=7 years,3,A93,A101,4,A122,53,A143,A152,1,A173,1,A191,A201,1,46-55
+0-200 DM,36,existing paid,car (used),6948,A61,1-4 years,2,A93,A101,2,A123,35,A143,A151,1,A174,1,A192,A201,1,26-35
+no account,12,existing paid,radio/TV,3059,A64,4-7 years,2,A91,A101,4,A121,61,A143,A152,1,A172,1,A191,A201,1,56-65
+0-200 DM,30,critical/other,car (new),5234,A61,unemployed,4,A94,A101,2,A123,28,A143,A152,2,A174,1,A191,A201,0,26-35
+0-200 DM,12,existing paid,car (new),1295,A61,<1 year,3,A92,A101,1,A123,25,A143,A151,1,A173,1,A191,A201,0,18-25
+<0 DM,48,existing paid,business,4308,A61,<1 year,3,A92,A101,4,A122,24,A143,A151,1,A173,1,A191,A201,0,18-25
+0-200 DM,12,existing paid,radio/TV,1567,A61,1-4 years,1,A92,A101,1,A123,22,A143,A152,1,A173,1,A192,A201,1,18-25
+<0 DM,24,critical/other,car (new),1199,A61,>=7 years,4,A93,A101,4,A123,60,A143,A152,2,A172,1,A191,A201,0,56-65
+<0 DM,15,existing paid,car (new),1403,A61,1-4 years,2,A92,A101,4,A123,28,A143,A151,1,A173,1,A191,A201,1,26-35
+<0 DM,24,existing paid,radio/TV,1282,A62,1-4 years,4,A92,A101,2,A123,32,A143,A152,1,A172,1,A191,A201,0,26-35
+no account,24,critical/other,radio/TV,2424,A65,>=7 years,4,A93,A101,4,A122,53,A143,A152,2,A173,1,A191,A201,1,46-55
+<0 DM,30,no credits/all paid,business,8072,A65,<1 year,2,A93,A101,3,A123,25,A141,A152,3,A173,1,A191,A201,1,18-25
+0-200 DM,24,existing paid,car (used),12579,A61,>=7 years,4,A92,A101,2,A124,44,A143,A153,1,A174,1,A192,A201,0,36-45
+no account,24,existing paid,radio/TV,3430,A63,>=7 years,3,A93,A101,2,A123,31,A143,A152,1,A173,2,A192,A201,1,26-35
+no account,9,critical/other,car (new),2134,A61,1-4 years,4,A93,A101,4,A123,48,A143,A152,3,A173,1,A192,A201,1,46-55
+<0 DM,6,existing paid,radio/TV,2647,A63,1-4 years,2,A93,A101,3,A121,44,A143,A151,1,A173,2,A191,A201,1,36-45
+<0 DM,10,critical/other,car (new),2241,A61,<1 year,1,A93,A101,3,A121,48,A143,A151,2,A172,2,A191,A202,1,46-55
+0-200 DM,12,critical/other,car (used),1804,A62,<1 year,3,A93,A101,4,A122,44,A143,A152,1,A173,1,A191,A201,1,36-45
+no account,10,critical/other,furniture/equipment,2069,A65,1-4 years,2,A94,A101,1,A123,26,A143,A152,2,A173,1,A191,A202,1,26-35
+<0 DM,6,existing paid,furniture/equipment,1374,A61,1-4 years,1,A93,A101,2,A121,36,A141,A152,1,A172,1,A192,A201,1,36-45
+no account,6,no credits/all paid,radio/TV,426,A61,>=7 years,4,A94,A101,4,A123,39,A143,A152,1,A172,1,A191,A201,1,36-45
+>=200 DM,12,all paid,radio/TV,409,A64,1-4 years,3,A92,A101,3,A121,42,A143,A151,2,A173,1,A191,A201,1,36-45
+0-200 DM,7,existing paid,radio/TV,2415,A61,1-4 years,3,A93,A103,2,A121,34,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,60,delay paid,business,6836,A61,>=7 years,3,A93,A101,4,A124,63,A143,A152,2,A173,1,A192,A201,0,56-65
+0-200 DM,18,existing paid,business,1913,A64,<1 year,3,A94,A101,3,A121,36,A141,A152,1,A173,1,A192,A201,1,36-45
+<0 DM,24,existing paid,furniture/equipment,4020,A61,1-4 years,2,A93,A101,2,A123,27,A142,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,18,existing paid,car (new),5866,A62,1-4 years,2,A93,A101,2,A123,30,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,12,critical/other,business,1264,A65,>=7 years,4,A93,A101,4,A124,57,A143,A151,1,A172,1,A191,A201,1,56-65
+>=200 DM,12,existing paid,furniture/equipment,1474,A61,<1 year,4,A92,A101,1,A122,33,A141,A152,1,A174,1,A192,A201,1,26-35
+0-200 DM,45,critical/other,radio/TV,4746,A61,<1 year,4,A93,A101,2,A122,25,A143,A152,2,A172,1,A191,A201,0,18-25
+no account,48,critical/other,education,6110,A61,1-4 years,1,A93,A101,3,A124,31,A141,A153,1,A173,1,A192,A201,1,26-35
+>=200 DM,18,existing paid,radio/TV,2100,A61,1-4 years,4,A93,A102,2,A121,37,A142,A152,1,A173,1,A191,A201,0,36-45
+>=200 DM,10,existing paid,domestic appliances,1225,A61,1-4 years,2,A93,A101,2,A123,37,A143,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,9,existing paid,radio/TV,458,A61,1-4 years,4,A93,A101,3,A121,24,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,30,existing paid,radio/TV,2333,A63,>=7 years,4,A93,A101,2,A123,30,A141,A152,1,A174,1,A191,A201,1,26-35
+0-200 DM,12,existing paid,radio/TV,1158,A63,1-4 years,3,A91,A101,1,A123,26,A143,A152,1,A173,1,A192,A201,1,26-35
+0-200 DM,18,delay paid,repairs,6204,A61,1-4 years,2,A93,A101,4,A121,44,A143,A152,1,A172,2,A192,A201,1,36-45
+<0 DM,30,critical/other,car (used),6187,A62,4-7 years,1,A94,A101,4,A123,24,A143,A151,2,A173,1,A191,A201,1,18-25
+<0 DM,48,critical/other,car (used),6143,A61,>=7 years,4,A92,A101,4,A124,58,A142,A153,2,A172,1,A191,A201,0,56-65
+no account,11,critical/other,car (new),1393,A61,<1 year,4,A92,A101,4,A123,35,A143,A152,2,A174,1,A191,A201,1,26-35
+no account,36,existing paid,radio/TV,2299,A63,>=7 years,4,A93,A101,4,A123,39,A143,A152,1,A173,1,A191,A201,1,36-45
+<0 DM,6,existing paid,car (used),1352,A63,unemployed,1,A92,A101,2,A122,23,A143,A151,1,A171,1,A192,A201,1,18-25
+no account,11,critical/other,car (new),7228,A61,1-4 years,1,A93,A101,4,A122,39,A143,A152,2,A172,1,A191,A201,1,36-45
+no account,12,existing paid,radio/TV,2073,A62,1-4 years,4,A92,A102,2,A121,28,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,24,delay paid,furniture/equipment,2333,A65,<1 year,4,A93,A101,2,A122,29,A141,A152,1,A172,1,A191,A201,1,26-35
+0-200 DM,27,delay paid,car (used),5965,A61,>=7 years,1,A93,A101,2,A123,30,A143,A152,2,A174,1,A192,A201,1,26-35
+no account,12,existing paid,radio/TV,1262,A61,1-4 years,3,A93,A101,2,A123,25,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,18,existing paid,car (used),3378,A65,1-4 years,2,A93,A101,1,A122,31,A143,A152,1,A173,1,A192,A201,1,26-35
+0-200 DM,36,delay paid,car (new),2225,A61,>=7 years,4,A93,A101,4,A124,57,A141,A153,2,A173,1,A192,A201,0,56-65
+no account,6,all paid,car (new),783,A65,1-4 years,1,A93,A103,2,A121,26,A142,A152,1,A172,2,A191,A201,1,26-35
+0-200 DM,12,existing paid,radio/TV,6468,A65,unemployed,2,A93,A101,1,A124,52,A143,A152,1,A174,1,A192,A201,0,46-55
+no account,36,critical/other,radio/TV,9566,A61,1-4 years,2,A92,A101,2,A123,31,A142,A152,2,A173,1,A191,A201,1,26-35
+>=200 DM,18,existing paid,car (new),1961,A61,>=7 years,3,A92,A101,2,A123,23,A143,A152,1,A174,1,A191,A201,1,18-25
+<0 DM,36,critical/other,furniture/equipment,6229,A61,<1 year,4,A92,A102,4,A124,23,A143,A151,2,A172,1,A192,A201,0,18-25
+0-200 DM,9,existing paid,business,1391,A61,1-4 years,2,A94,A101,1,A121,27,A141,A152,1,A173,1,A192,A201,1,26-35
+0-200 DM,15,critical/other,radio/TV,1537,A65,>=7 years,4,A93,A103,4,A121,50,A143,A152,2,A173,1,A192,A201,1,46-55
+0-200 DM,36,no credits/all paid,business,1953,A61,>=7 years,4,A93,A101,4,A124,61,A143,A153,1,A174,1,A192,A201,0,56-65
+0-200 DM,48,no credits/all paid,business,14421,A61,1-4 years,2,A93,A101,2,A123,25,A143,A152,1,A173,1,A192,A201,0,18-25
+no account,24,existing paid,radio/TV,3181,A61,<1 year,4,A92,A101,4,A122,26,A143,A152,1,A173,1,A192,A201,1,26-35
+no account,27,existing paid,repairs,5190,A65,>=7 years,4,A93,A101,4,A122,48,A143,A152,4,A173,2,A192,A201,1,46-55
+no account,12,existing paid,radio/TV,2171,A61,<1 year,2,A92,A101,2,A123,29,A141,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,12,existing paid,car (new),1007,A64,1-4 years,4,A94,A101,1,A121,22,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,36,existing paid,education,1819,A61,1-4 years,4,A93,A101,4,A124,37,A142,A153,1,A173,1,A192,A201,0,36-45
+no account,36,existing paid,radio/TV,2394,A65,1-4 years,4,A92,A101,4,A123,25,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,36,existing paid,car (used),8133,A61,1-4 years,1,A92,A101,2,A122,30,A141,A152,1,A173,1,A191,A201,1,26-35
+no account,7,critical/other,radio/TV,730,A65,>=7 years,4,A93,A101,2,A122,46,A143,A151,2,A172,1,A192,A201,1,46-55
+<0 DM,8,critical/other,others,1164,A61,>=7 years,3,A93,A101,4,A124,51,A141,A153,2,A174,2,A192,A201,1,46-55
+0-200 DM,42,critical/other,business,5954,A61,4-7 years,2,A92,A101,1,A121,41,A141,A152,2,A172,1,A191,A201,1,36-45
+<0 DM,36,existing paid,education,1977,A65,>=7 years,4,A93,A101,4,A124,40,A143,A152,1,A174,1,A192,A201,0,36-45
+<0 DM,12,critical/other,car (used),1526,A61,>=7 years,4,A93,A101,4,A124,66,A143,A153,2,A174,1,A191,A201,1,66+
+<0 DM,42,existing paid,radio/TV,3965,A61,<1 year,4,A93,A101,3,A123,34,A143,A152,1,A173,1,A191,A201,0,26-35
+0-200 DM,11,delay paid,radio/TV,4771,A61,4-7 years,2,A93,A101,4,A122,51,A143,A152,1,A173,1,A191,A201,1,46-55
+no account,54,no credits/all paid,car (used),9436,A65,1-4 years,2,A93,A101,2,A122,39,A143,A152,1,A172,2,A191,A201,1,36-45
+0-200 DM,30,existing paid,furniture/equipment,3832,A61,<1 year,2,A94,A101,1,A122,22,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,24,existing paid,radio/TV,5943,A65,<1 year,1,A92,A101,1,A123,44,A143,A152,2,A173,1,A192,A201,0,36-45
+no account,15,existing paid,radio/TV,1213,A63,>=7 years,4,A93,A101,3,A122,47,A142,A152,1,A173,1,A192,A201,1,46-55
+no account,18,existing paid,business,1568,A62,1-4 years,3,A92,A101,4,A122,24,A143,A151,1,A172,1,A191,A201,1,18-25
+<0 DM,24,existing paid,others,1755,A61,>=7 years,4,A92,A103,4,A121,58,A143,A152,1,A172,1,A192,A201,1,56-65
+<0 DM,10,existing paid,radio/TV,2315,A61,>=7 years,3,A93,A101,4,A121,52,A143,A152,1,A172,1,A191,A201,1,46-55
+no account,12,critical/other,business,1412,A61,1-4 years,4,A92,A103,2,A121,29,A143,A152,2,A174,1,A192,A201,1,26-35
+0-200 DM,18,critical/other,furniture/equipment,1295,A61,<1 year,4,A92,A101,1,A122,27,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,36,existing paid,education,12612,A62,1-4 years,1,A93,A101,4,A124,47,A143,A153,1,A173,2,A192,A201,0,46-55
+<0 DM,18,existing paid,car (new),2249,A62,4-7 years,4,A93,A101,3,A123,30,A143,A152,1,A174,2,A192,A201,1,26-35
+<0 DM,12,no credits/all paid,repairs,1108,A61,4-7 years,4,A93,A101,3,A121,28,A143,A152,2,A173,1,A191,A201,0,26-35
+no account,12,critical/other,radio/TV,618,A61,>=7 years,4,A93,A101,4,A121,56,A143,A152,1,A173,1,A191,A201,1,56-65
+<0 DM,12,critical/other,car (used),1409,A61,>=7 years,4,A93,A101,3,A121,54,A143,A152,1,A173,1,A191,A201,1,46-55
+no account,12,critical/other,radio/TV,797,A65,>=7 years,4,A92,A101,3,A122,33,A141,A152,1,A172,2,A191,A201,0,26-35
+>=200 DM,24,critical/other,furniture/equipment,3617,A65,>=7 years,4,A93,A102,4,A124,20,A143,A151,2,A173,1,A191,A201,1,18-25
+0-200 DM,12,existing paid,car (new),1318,A64,>=7 years,4,A93,A101,4,A121,54,A143,A152,1,A173,1,A192,A201,1,46-55
+0-200 DM,54,no credits/all paid,business,15945,A61,<1 year,3,A93,A101,4,A124,58,A143,A151,1,A173,1,A192,A201,0,56-65
+no account,12,critical/other,education,2012,A65,4-7 years,4,A92,A101,2,A123,61,A143,A152,1,A173,1,A191,A201,1,56-65
+0-200 DM,18,existing paid,business,2622,A62,1-4 years,4,A93,A101,4,A123,34,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,36,critical/other,radio/TV,2337,A61,>=7 years,4,A93,A101,4,A121,36,A143,A152,1,A173,1,A191,A201,1,36-45
+0-200 DM,20,delay paid,car (used),7057,A65,4-7 years,3,A93,A101,4,A122,36,A141,A151,2,A174,2,A192,A201,1,36-45
+no account,24,existing paid,car (new),1469,A62,>=7 years,4,A94,A101,4,A121,41,A143,A151,1,A172,1,A191,A201,1,36-45
+0-200 DM,36,existing paid,radio/TV,2323,A61,4-7 years,4,A93,A101,4,A123,24,A143,A151,1,A173,1,A191,A201,1,18-25
+no account,6,delay paid,radio/TV,932,A61,1-4 years,3,A92,A101,2,A121,24,A143,A152,1,A173,1,A191,A201,1,18-25
+0-200 DM,9,critical/other,furniture/equipment,1919,A61,4-7 years,4,A93,A101,3,A123,35,A143,A151,1,A173,1,A192,A201,1,26-35
+no account,12,existing paid,car (used),2445,A65,<1 year,2,A94,A101,4,A123,26,A143,A151,1,A173,1,A192,A201,1,26-35
+0-200 DM,24,critical/other,others,11938,A61,1-4 years,2,A93,A102,3,A123,39,A143,A152,2,A174,2,A192,A201,0,36-45
+no account,18,all paid,car (new),6458,A61,>=7 years,2,A93,A101,4,A124,39,A141,A152,2,A174,2,A192,A201,0,36-45
+0-200 DM,12,existing paid,car (new),6078,A61,4-7 years,2,A93,A101,2,A123,32,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,24,existing paid,furniture/equipment,7721,A65,<1 year,1,A92,A101,2,A122,30,A143,A152,1,A173,1,A192,A202,1,26-35
+0-200 DM,14,existing paid,business,1410,A63,>=7 years,1,A94,A101,2,A121,35,A143,A152,1,A173,1,A192,A201,1,26-35
+0-200 DM,6,delay paid,business,1449,A62,>=7 years,1,A91,A101,2,A123,31,A141,A152,2,A173,2,A191,A201,1,26-35
+>=200 DM,15,existing paid,education,392,A61,<1 year,4,A92,A101,4,A122,23,A143,A151,1,A173,1,A192,A201,1,18-25
+0-200 DM,18,existing paid,car (new),6260,A61,4-7 years,3,A93,A101,3,A121,28,A143,A151,1,A172,1,A191,A201,1,26-35
+no account,36,critical/other,car (new),7855,A61,1-4 years,4,A92,A101,2,A121,25,A142,A152,2,A173,1,A192,A201,0,18-25
+<0 DM,12,existing paid,radio/TV,1680,A63,>=7 years,3,A94,A101,1,A121,35,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,48,critical/other,radio/TV,3578,A65,>=7 years,4,A93,A101,1,A121,47,A143,A152,1,A173,1,A192,A201,1,46-55
+<0 DM,42,existing paid,radio/TV,7174,A65,4-7 years,4,A92,A101,3,A123,30,A143,A152,1,A174,1,A192,A201,0,26-35
+<0 DM,10,critical/other,furniture/equipment,2132,A65,<1 year,2,A92,A102,3,A121,27,A143,A151,2,A173,1,A191,A202,1,26-35
+<0 DM,33,critical/other,furniture/equipment,4281,A63,1-4 years,1,A92,A101,4,A123,23,A143,A152,2,A173,1,A191,A201,0,18-25
+0-200 DM,12,critical/other,car (new),2366,A63,4-7 years,3,A91,A101,3,A123,36,A143,A152,1,A174,1,A192,A201,1,36-45
+<0 DM,21,existing paid,radio/TV,1835,A61,1-4 years,3,A92,A101,2,A121,25,A143,A152,2,A173,1,A192,A201,0,18-25
+no account,24,critical/other,car (used),3868,A61,>=7 years,4,A92,A101,2,A123,41,A143,A151,2,A174,1,A192,A201,1,36-45
+no account,12,existing paid,furniture/equipment,1768,A61,1-4 years,3,A93,A101,2,A121,24,A143,A151,1,A172,1,A191,A201,1,18-25
+>=200 DM,10,critical/other,car (new),781,A61,>=7 years,4,A93,A101,4,A124,63,A143,A153,2,A173,1,A192,A201,1,56-65
+0-200 DM,18,existing paid,furniture/equipment,1924,A65,<1 year,4,A92,A101,3,A121,27,A143,A151,1,A173,1,A191,A201,0,26-35
+<0 DM,12,critical/other,car (new),2121,A61,1-4 years,4,A93,A101,2,A122,30,A143,A152,2,A173,1,A191,A201,1,26-35
+<0 DM,12,existing paid,radio/TV,701,A61,1-4 years,4,A94,A101,2,A121,40,A143,A152,1,A172,1,A191,A201,1,36-45
+0-200 DM,12,existing paid,repairs,639,A61,1-4 years,4,A93,A101,2,A123,30,A143,A152,1,A173,1,A191,A201,0,26-35
+0-200 DM,12,critical/other,car (used),1860,A61,unemployed,4,A93,A101,2,A123,34,A143,A152,2,A174,1,A192,A201,1,26-35
+<0 DM,12,critical/other,car (new),3499,A61,1-4 years,3,A92,A102,2,A121,29,A143,A152,2,A173,1,A191,A201,0,26-35
+0-200 DM,48,existing paid,car (new),8487,A65,4-7 years,1,A92,A101,2,A123,24,A143,A152,1,A173,1,A191,A201,1,18-25
+<0 DM,36,delay paid,education,6887,A61,1-4 years,4,A93,A101,3,A122,29,A142,A152,1,A173,1,A192,A201,0,26-35
+no account,15,existing paid,furniture/equipment,2708,A61,<1 year,2,A93,A101,3,A122,27,A141,A152,2,A172,1,A191,A201,1,26-35
+no account,18,existing paid,furniture/equipment,1984,A61,1-4 years,4,A93,A101,4,A124,47,A141,A153,2,A173,1,A191,A201,1,46-55
+no account,60,existing paid,radio/TV,10144,A62,4-7 years,2,A92,A101,4,A121,21,A143,A152,1,A173,1,A192,A201,1,18-25
+no account,12,critical/other,radio/TV,1240,A65,>=7 years,4,A92,A101,2,A121,38,A143,A152,2,A173,1,A192,A201,1,36-45
+no account,27,delay paid,car (used),8613,A64,1-4 years,2,A93,A101,2,A123,27,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,12,existing paid,radio/TV,766,A63,1-4 years,4,A93,A101,3,A121,66,A143,A152,1,A172,1,A191,A201,0,66+
+0-200 DM,15,critical/other,radio/TV,2728,A65,4-7 years,4,A93,A103,2,A121,35,A141,A152,3,A173,1,A192,A201,1,26-35
+>=200 DM,12,existing paid,radio/TV,1881,A61,1-4 years,2,A92,A101,2,A123,44,A143,A151,1,A172,1,A192,A201,1,36-45
+>=200 DM,6,existing paid,car (new),709,A64,<1 year,2,A94,A101,2,A121,27,A143,A152,1,A171,1,A191,A202,1,26-35
+0-200 DM,36,existing paid,radio/TV,4795,A61,<1 year,4,A92,A101,1,A124,30,A143,A152,1,A174,1,A192,A201,1,26-35
+<0 DM,27,existing paid,radio/TV,3416,A61,1-4 years,3,A93,A101,2,A123,27,A143,A152,1,A174,1,A191,A201,1,26-35
+<0 DM,18,existing paid,furniture/equipment,2462,A61,1-4 years,2,A93,A101,2,A123,22,A143,A152,1,A173,1,A191,A201,0,18-25
+no account,21,critical/other,furniture/equipment,2288,A61,<1 year,4,A92,A101,4,A122,23,A143,A152,1,A173,1,A192,A201,1,18-25
+0-200 DM,48,all paid,business,3566,A62,4-7 years,4,A93,A101,2,A123,30,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,6,critical/other,car (new),860,A61,>=7 years,1,A92,A101,4,A124,39,A143,A152,2,A173,1,A192,A201,1,36-45
+no account,12,critical/other,car (new),682,A62,4-7 years,4,A92,A101,3,A123,51,A143,A152,2,A173,1,A192,A201,1,46-55
+<0 DM,36,critical/other,furniture/equipment,5371,A61,1-4 years,3,A93,A103,2,A122,28,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,18,critical/other,radio/TV,1582,A64,>=7 years,4,A93,A101,4,A123,46,A143,A152,2,A173,1,A191,A201,1,46-55
+no account,6,existing paid,radio/TV,1346,A62,>=7 years,2,A93,A101,4,A124,42,A141,A153,1,A173,2,A192,A201,1,36-45
+no account,10,existing paid,radio/TV,1924,A61,1-4 years,1,A93,A101,4,A122,38,A143,A152,1,A173,1,A192,A202,1,36-45
+>=200 DM,36,existing paid,radio/TV,5848,A61,1-4 years,4,A93,A101,1,A123,24,A143,A152,1,A173,1,A191,A201,1,18-25
+0-200 DM,24,critical/other,car (used),7758,A64,>=7 years,2,A92,A101,4,A124,29,A143,A151,1,A173,1,A191,A201,1,26-35
+0-200 DM,24,delay paid,business,6967,A62,4-7 years,4,A93,A101,4,A123,36,A143,A151,1,A174,1,A192,A201,1,36-45
+<0 DM,12,existing paid,furniture/equipment,1282,A61,1-4 years,2,A92,A101,4,A123,20,A143,A151,1,A173,1,A191,A201,0,18-25
+<0 DM,9,critical/other,repairs,1288,A62,>=7 years,3,A93,A103,4,A121,48,A143,A152,2,A173,2,A191,A202,1,46-55
+<0 DM,12,all paid,retraining,339,A61,>=7 years,4,A94,A101,1,A123,45,A141,A152,1,A172,1,A191,A201,1,36-45
+0-200 DM,24,existing paid,car (new),3512,A62,4-7 years,2,A93,A101,3,A123,38,A141,A152,2,A173,1,A192,A201,1,36-45
+no account,6,critical/other,radio/TV,1898,A65,1-4 years,1,A93,A101,2,A121,34,A143,A152,2,A172,2,A191,A201,1,26-35
+no account,24,critical/other,radio/TV,2872,A62,>=7 years,3,A93,A101,4,A121,36,A143,A152,1,A173,2,A192,A201,1,36-45
+no account,18,critical/other,car (new),1055,A61,<1 year,4,A92,A101,1,A122,30,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,15,existing paid,domestic appliances,1262,A63,4-7 years,4,A93,A101,3,A122,36,A143,A152,2,A173,1,A192,A201,1,36-45
+0-200 DM,10,existing paid,car (new),7308,A61,unemployed,2,A93,A101,4,A124,70,A141,A153,1,A174,1,A192,A201,1,66+
+no account,36,existing paid,car (new),909,A63,>=7 years,4,A93,A101,4,A122,36,A143,A152,1,A173,1,A191,A201,1,36-45
+no account,6,existing paid,furniture/equipment,2978,A63,1-4 years,1,A93,A101,2,A123,32,A143,A152,1,A173,1,A192,A201,1,26-35
+<0 DM,18,existing paid,furniture/equipment,1131,A61,unemployed,4,A92,A101,2,A123,33,A143,A152,1,A173,1,A191,A201,0,26-35
+0-200 DM,11,existing paid,furniture/equipment,1577,A64,<1 year,4,A92,A101,1,A121,20,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,24,existing paid,furniture/equipment,3972,A61,4-7 years,2,A92,A101,4,A122,25,A143,A151,1,A173,1,A192,A201,1,18-25
+0-200 DM,24,critical/other,business,1935,A61,>=7 years,4,A91,A101,4,A121,31,A143,A152,2,A173,1,A192,A201,0,26-35
+<0 DM,15,no credits/all paid,car (new),950,A61,>=7 years,4,A93,A101,3,A123,33,A143,A151,2,A173,2,A191,A201,0,26-35
+no account,12,existing paid,furniture/equipment,763,A61,1-4 years,4,A92,A101,1,A121,26,A143,A152,1,A173,1,A192,A201,1,26-35
+0-200 DM,24,delay paid,furniture/equipment,2064,A61,unemployed,3,A92,A101,2,A122,34,A143,A152,1,A174,1,A192,A201,0,26-35
+0-200 DM,8,existing paid,radio/TV,1414,A61,1-4 years,4,A93,A103,2,A121,33,A143,A152,1,A173,1,A191,A202,1,26-35
+<0 DM,21,delay paid,education,3414,A61,<1 year,2,A93,A101,1,A122,26,A143,A152,2,A173,1,A191,A201,0,26-35
+no account,30,all paid,car (used),7485,A65,unemployed,4,A92,A101,1,A121,53,A141,A152,1,A174,1,A192,A201,0,46-55
+<0 DM,12,existing paid,furniture/equipment,2577,A61,1-4 years,2,A91,A101,1,A123,42,A143,A152,1,A173,1,A191,A201,1,36-45
+<0 DM,6,critical/other,radio/TV,338,A63,>=7 years,4,A93,A101,4,A123,52,A143,A152,2,A173,1,A191,A201,1,46-55
+no account,12,existing paid,radio/TV,1963,A61,4-7 years,4,A93,A101,2,A123,31,A143,A151,2,A174,2,A192,A201,1,26-35
+<0 DM,21,critical/other,car (new),571,A61,>=7 years,4,A93,A101,4,A121,65,A143,A152,2,A173,1,A191,A201,1,56-65
+no account,36,delay paid,business,9572,A61,<1 year,1,A91,A101,1,A123,28,A143,A152,2,A173,1,A191,A201,0,26-35
+0-200 DM,36,delay paid,business,4455,A61,1-4 years,2,A91,A101,2,A121,30,A142,A152,2,A174,1,A192,A201,0,26-35
+<0 DM,21,all paid,car (new),1647,A65,1-4 years,4,A93,A101,2,A122,40,A143,A152,2,A172,2,A191,A201,0,36-45
+no account,24,critical/other,furniture/equipment,3777,A64,1-4 years,4,A93,A101,4,A121,50,A143,A152,1,A173,1,A192,A201,1,46-55
+0-200 DM,18,critical/other,car (new),884,A61,>=7 years,4,A93,A101,4,A123,36,A141,A152,1,A173,2,A192,A201,0,36-45
+no account,15,critical/other,radio/TV,1360,A61,1-4 years,4,A93,A101,2,A122,31,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,9,all paid,car (used),5129,A61,>=7 years,2,A92,A101,4,A124,74,A141,A153,1,A174,2,A192,A201,0,66+
+0-200 DM,16,critical/other,car (new),1175,A61,unemployed,2,A93,A101,3,A123,68,A143,A153,3,A171,1,A192,A201,1,66+
+<0 DM,12,existing paid,radio/TV,674,A62,4-7 years,4,A94,A101,1,A122,20,A143,A152,1,A173,1,A191,A201,0,18-25
+0-200 DM,18,no credits/all paid,furniture/equipment,3244,A61,1-4 years,1,A92,A101,4,A123,33,A141,A152,2,A173,1,A192,A201,1,26-35
+no account,24,existing paid,business,4591,A64,1-4 years,2,A93,A101,3,A122,54,A143,A152,3,A174,1,A192,A201,0,46-55
+0-200 DM,48,no credits/all paid,business,3844,A62,4-7 years,4,A93,A101,4,A124,34,A143,A153,1,A172,2,A191,A201,0,26-35
+0-200 DM,27,existing paid,business,3915,A61,1-4 years,4,A93,A101,2,A123,36,A143,A152,1,A173,2,A192,A201,0,36-45
+no account,6,existing paid,radio/TV,2108,A61,4-7 years,2,A94,A101,2,A121,29,A143,A151,1,A173,1,A191,A201,1,26-35
+0-200 DM,45,existing paid,radio/TV,3031,A62,1-4 years,4,A93,A103,4,A122,21,A143,A151,1,A173,1,A191,A201,0,18-25
+0-200 DM,9,critical/other,education,1501,A61,>=7 years,2,A92,A101,3,A123,34,A143,A152,2,A174,1,A192,A201,0,26-35
+no account,6,critical/other,radio/TV,1382,A61,1-4 years,1,A92,A101,1,A123,28,A143,A152,2,A173,1,A192,A201,1,26-35
+0-200 DM,12,existing paid,furniture/equipment,951,A62,<1 year,4,A92,A101,4,A123,27,A141,A151,4,A173,1,A191,A201,0,26-35
+0-200 DM,24,existing paid,car (used),2760,A65,>=7 years,4,A93,A101,4,A124,36,A141,A153,1,A173,1,A192,A201,1,36-45
+0-200 DM,18,delay paid,furniture/equipment,4297,A61,>=7 years,4,A91,A101,3,A124,40,A143,A152,1,A174,1,A192,A201,0,36-45
+no account,9,critical/other,education,936,A63,>=7 years,4,A93,A101,2,A123,52,A143,A152,2,A173,1,A192,A201,1,46-55
+<0 DM,12,existing paid,car (new),1168,A61,1-4 years,4,A94,A101,3,A121,27,A143,A152,1,A172,1,A191,A201,1,26-35
+no account,27,delay paid,business,5117,A61,4-7 years,3,A93,A101,4,A123,26,A143,A152,2,A173,1,A191,A201,1,26-35
+<0 DM,12,existing paid,retraining,902,A61,4-7 years,4,A94,A101,4,A122,21,A143,A151,1,A173,1,A191,A201,0,18-25
+no account,12,critical/other,car (new),1495,A61,>=7 years,4,A93,A101,1,A121,38,A143,A152,2,A172,2,A191,A201,1,36-45
+<0 DM,30,critical/other,car (used),10623,A61,>=7 years,3,A93,A101,4,A124,38,A143,A153,3,A174,2,A192,A201,1,36-45
+no account,12,critical/other,furniture/equipment,1935,A61,>=7 years,4,A93,A101,4,A121,43,A143,A152,3,A173,1,A192,A201,1,36-45
+0-200 DM,12,critical/other,domestic appliances,1424,A61,4-7 years,4,A93,A101,3,A122,26,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,24,existing paid,business,6568,A61,1-4 years,2,A94,A101,2,A123,21,A142,A152,1,A172,1,A191,A201,1,18-25
+no account,12,existing paid,car (used),1413,A64,4-7 years,3,A93,A101,2,A122,55,A143,A152,1,A173,1,A191,A202,1,46-55
+no account,9,critical/other,radio/TV,3074,A65,1-4 years,1,A93,A101,2,A121,33,A143,A152,2,A173,2,A191,A201,1,26-35
+no account,36,existing paid,radio/TV,3835,A65,>=7 years,2,A92,A101,4,A121,45,A143,A152,1,A172,1,A192,A201,1,36-45
+<0 DM,27,no credits/all paid,business,5293,A61,unemployed,2,A93,A101,4,A122,50,A142,A152,2,A173,1,A192,A201,0,46-55
+>=200 DM,30,delay paid,business,1908,A61,>=7 years,4,A93,A101,4,A121,66,A143,A152,1,A174,1,A192,A201,0,66+
+no account,36,critical/other,radio/TV,3342,A65,>=7 years,4,A93,A101,2,A123,51,A143,A152,1,A173,1,A192,A201,1,46-55
+0-200 DM,6,critical/other,retraining,932,A65,4-7 years,1,A92,A101,3,A122,39,A143,A152,2,A172,1,A191,A201,1,36-45
+<0 DM,18,no credits/all paid,business,3104,A61,4-7 years,3,A93,A101,1,A122,31,A141,A152,1,A173,1,A192,A201,1,26-35
+>=200 DM,36,existing paid,radio/TV,3913,A61,1-4 years,2,A93,A101,2,A121,23,A143,A152,1,A173,1,A192,A201,1,18-25
+<0 DM,24,existing paid,furniture/equipment,3021,A61,1-4 years,2,A91,A101,2,A121,24,A143,A151,1,A172,1,A191,A201,1,18-25
+no account,10,existing paid,car (new),1364,A61,1-4 years,2,A92,A101,4,A123,64,A143,A152,1,A173,1,A192,A201,1,56-65
+0-200 DM,12,existing paid,radio/TV,625,A61,<1 year,4,A94,A103,1,A121,26,A141,A152,1,A172,1,A191,A201,1,26-35
+<0 DM,12,existing paid,education,1200,A65,1-4 years,4,A92,A101,4,A122,23,A141,A151,1,A173,1,A192,A201,1,18-25
+no account,12,existing paid,radio/TV,707,A61,1-4 years,4,A93,A101,2,A121,30,A141,A152,2,A173,1,A191,A201,1,26-35
+no account,24,delay paid,business,2978,A65,1-4 years,4,A93,A101,4,A121,32,A143,A152,2,A173,2,A192,A201,1,26-35
+no account,15,existing paid,car (used),4657,A61,1-4 years,3,A93,A101,2,A123,30,A143,A152,1,A173,1,A192,A201,1,26-35
+no account,36,no credits/all paid,repairs,2613,A61,1-4 years,4,A93,A101,2,A123,27,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,48,existing paid,radio/TV,10961,A64,4-7 years,1,A93,A102,2,A124,27,A141,A152,2,A173,1,A192,A201,0,26-35
+<0 DM,12,existing paid,furniture/equipment,7865,A61,>=7 years,4,A93,A101,4,A124,53,A143,A153,1,A174,1,A192,A201,0,46-55
+no account,9,existing paid,radio/TV,1478,A61,4-7 years,4,A93,A101,2,A123,22,A143,A152,1,A173,1,A191,A201,0,18-25
+<0 DM,24,existing paid,furniture/equipment,3149,A61,<1 year,4,A93,A101,1,A124,22,A141,A153,1,A173,1,A191,A201,1,18-25
+>=200 DM,36,existing paid,radio/TV,4210,A61,1-4 years,4,A93,A101,2,A123,26,A143,A152,1,A173,1,A191,A201,0,26-35
+no account,9,existing paid,car (new),2507,A63,>=7 years,2,A93,A101,4,A124,51,A143,A153,1,A172,1,A191,A201,1,46-55
+no account,12,existing paid,radio/TV,2141,A62,4-7 years,3,A93,A101,1,A124,35,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,18,existing paid,radio/TV,866,A61,1-4 years,4,A94,A103,2,A121,25,A143,A152,1,A172,1,A191,A201,1,18-25
+no account,4,critical/other,radio/TV,1544,A61,4-7 years,2,A93,A101,1,A121,42,A143,A152,3,A172,2,A191,A201,1,36-45
+<0 DM,24,existing paid,radio/TV,1823,A61,unemployed,4,A93,A101,2,A123,30,A142,A152,1,A174,2,A191,A201,0,26-35
+0-200 DM,6,existing paid,car (new),14555,A65,unemployed,1,A93,A101,2,A122,23,A143,A152,1,A171,1,A192,A201,0,18-25
+0-200 DM,21,existing paid,business,2767,A62,>=7 years,4,A91,A101,2,A123,61,A141,A151,2,A172,1,A191,A201,0,56-65
+no account,12,critical/other,radio/TV,1291,A61,1-4 years,4,A92,A101,2,A122,35,A143,A152,2,A173,1,A191,A201,1,26-35
+<0 DM,30,existing paid,radio/TV,2522,A61,>=7 years,1,A93,A103,3,A122,39,A143,A152,1,A173,2,A191,A201,1,36-45
+<0 DM,24,existing paid,car (new),915,A65,>=7 years,4,A92,A101,2,A123,29,A141,A152,1,A173,1,A191,A201,0,26-35
+no account,6,existing paid,radio/TV,1595,A61,4-7 years,3,A93,A101,2,A122,51,A143,A152,1,A173,2,A191,A201,1,46-55
+<0 DM,48,no credits/all paid,car (used),4605,A61,>=7 years,3,A93,A101,4,A124,24,A143,A153,2,A173,2,A191,A201,0,18-25
+no account,12,critical/other,business,1185,A61,1-4 years,3,A92,A101,2,A121,27,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,12,all paid,retraining,3447,A63,1-4 years,4,A92,A101,3,A121,35,A143,A152,1,A172,2,A191,A201,1,26-35
+no account,24,existing paid,business,1258,A61,4-7 years,4,A93,A101,1,A121,25,A143,A152,1,A173,1,A192,A201,1,18-25
+no account,12,critical/other,radio/TV,717,A61,>=7 years,4,A93,A101,4,A121,52,A143,A152,3,A173,1,A191,A201,1,46-55
+no account,6,no credits/all paid,car (new),1204,A62,1-4 years,4,A93,A101,1,A124,35,A141,A151,1,A173,1,A191,A202,1,26-35
+>=200 DM,24,existing paid,furniture/equipment,1925,A61,1-4 years,2,A93,A101,2,A121,26,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,18,existing paid,radio/TV,433,A61,unemployed,3,A92,A102,4,A121,22,A143,A151,1,A173,1,A191,A201,0,18-25
+<0 DM,6,critical/other,car (new),666,A64,4-7 years,3,A92,A101,4,A121,39,A143,A152,2,A172,1,A192,A201,1,36-45
+>=200 DM,12,existing paid,furniture/equipment,2251,A61,1-4 years,1,A92,A101,2,A123,46,A143,A152,1,A172,1,A191,A201,1,46-55
+0-200 DM,30,existing paid,car (new),2150,A61,1-4 years,4,A92,A103,2,A124,24,A141,A152,1,A173,1,A191,A201,0,18-25
+no account,24,delay paid,furniture/equipment,4151,A62,1-4 years,2,A93,A101,3,A122,35,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,9,existing paid,furniture/equipment,2030,A65,4-7 years,2,A93,A101,1,A123,24,A143,A152,1,A173,1,A192,A201,1,18-25
+0-200 DM,60,delay paid,radio/TV,7418,A65,1-4 years,1,A93,A101,1,A121,27,A143,A152,1,A172,1,A191,A201,1,26-35
+no account,24,critical/other,radio/TV,2684,A61,1-4 years,4,A93,A101,2,A121,35,A143,A152,2,A172,1,A191,A201,1,26-35
+<0 DM,12,all paid,radio/TV,2149,A61,1-4 years,4,A91,A101,1,A124,29,A143,A153,1,A173,1,A191,A201,0,26-35
+no account,15,existing paid,car (used),3812,A62,<1 year,1,A92,A101,4,A123,23,A143,A152,1,A173,1,A192,A201,1,18-25
+no account,11,critical/other,radio/TV,1154,A62,unemployed,4,A92,A101,4,A121,57,A143,A152,3,A172,1,A191,A201,1,56-65
+<0 DM,12,existing paid,furniture/equipment,1657,A61,1-4 years,2,A93,A101,2,A121,27,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,24,existing paid,radio/TV,1603,A61,>=7 years,4,A92,A101,4,A123,55,A143,A152,1,A173,1,A191,A201,1,46-55
+<0 DM,18,critical/other,car (new),5302,A61,>=7 years,2,A93,A101,4,A124,36,A143,A153,3,A174,1,A192,A201,1,36-45
+no account,12,critical/other,education,2748,A61,>=7 years,2,A92,A101,4,A124,57,A141,A153,3,A172,1,A191,A201,1,56-65
+no account,10,critical/other,car (new),1231,A61,>=7 years,3,A93,A101,4,A121,32,A143,A152,2,A172,2,A191,A202,1,26-35
+0-200 DM,15,existing paid,radio/TV,802,A61,>=7 years,4,A93,A101,3,A123,37,A143,A152,1,A173,2,A191,A201,0,36-45
+no account,36,critical/other,business,6304,A65,>=7 years,4,A93,A101,4,A121,36,A143,A152,2,A173,1,A191,A201,1,36-45
+no account,24,existing paid,radio/TV,1533,A61,<1 year,4,A92,A101,3,A123,38,A142,A152,1,A173,1,A192,A201,1,36-45
+<0 DM,14,existing paid,car (new),8978,A61,>=7 years,1,A91,A101,4,A122,45,A143,A152,1,A174,1,A192,A202,0,36-45
+no account,24,existing paid,radio/TV,999,A65,>=7 years,4,A93,A101,2,A123,25,A143,A152,2,A173,1,A191,A201,1,18-25
+no account,18,existing paid,car (new),2662,A65,4-7 years,4,A93,A101,3,A122,32,A143,A152,1,A173,1,A191,A202,1,26-35
+no account,12,critical/other,furniture/equipment,1402,A63,4-7 years,3,A92,A101,4,A123,37,A143,A151,1,A173,1,A192,A201,1,36-45
+0-200 DM,48,all paid,car (new),12169,A65,unemployed,4,A93,A102,4,A124,36,A143,A153,1,A174,1,A192,A201,1,36-45
+0-200 DM,48,existing paid,radio/TV,3060,A61,4-7 years,4,A93,A101,4,A121,28,A143,A152,2,A173,1,A191,A201,0,26-35
+<0 DM,30,existing paid,repairs,11998,A61,<1 year,1,A91,A101,1,A124,34,A143,A152,1,A172,1,A192,A201,0,26-35
+no account,9,existing paid,radio/TV,2697,A61,1-4 years,1,A93,A101,2,A121,32,A143,A152,1,A173,2,A191,A201,1,26-35
+no account,18,critical/other,radio/TV,2404,A61,1-4 years,2,A92,A101,2,A123,26,A143,A152,2,A173,1,A191,A201,1,26-35
+<0 DM,12,existing paid,furniture/equipment,1262,A65,>=7 years,2,A91,A101,4,A122,49,A143,A152,1,A172,1,A192,A201,1,46-55
+no account,6,existing paid,furniture/equipment,4611,A61,<1 year,1,A92,A101,4,A122,32,A143,A152,1,A173,1,A191,A201,0,26-35
+no account,24,existing paid,radio/TV,1901,A62,1-4 years,4,A93,A101,4,A123,29,A143,A151,1,A174,1,A192,A201,1,26-35
+no account,15,critical/other,car (used),3368,A64,>=7 years,3,A93,A101,4,A124,23,A143,A151,2,A173,1,A192,A201,1,18-25
+no account,12,existing paid,furniture/equipment,1574,A61,1-4 years,4,A93,A101,2,A121,50,A143,A152,1,A173,1,A191,A201,1,46-55
+>=200 DM,18,all paid,radio/TV,1445,A65,4-7 years,4,A93,A101,4,A123,49,A141,A152,1,A172,1,A191,A201,1,46-55
+no account,15,critical/other,furniture/equipment,1520,A65,>=7 years,4,A93,A101,4,A122,63,A143,A152,1,A173,1,A191,A201,1,56-65
+0-200 DM,24,critical/other,car (new),3878,A62,<1 year,4,A91,A101,2,A123,37,A143,A152,1,A173,1,A192,A201,1,36-45
+<0 DM,47,existing paid,car (new),10722,A61,<1 year,1,A92,A101,1,A121,35,A143,A152,1,A172,1,A192,A201,1,26-35
+<0 DM,48,existing paid,car (used),4788,A61,4-7 years,4,A93,A101,3,A122,26,A143,A152,1,A173,2,A191,A201,1,26-35
+0-200 DM,48,delay paid,others,7582,A62,unemployed,2,A93,A101,4,A124,31,A143,A153,1,A174,1,A192,A201,1,26-35
+0-200 DM,12,existing paid,radio/TV,1092,A61,1-4 years,4,A92,A103,4,A121,49,A143,A152,2,A173,1,A192,A201,1,46-55
+<0 DM,24,delay paid,radio/TV,1024,A61,<1 year,4,A94,A101,4,A121,48,A142,A152,1,A173,1,A191,A201,0,46-55
+no account,12,existing paid,business,1076,A61,1-4 years,2,A94,A101,2,A121,26,A143,A152,1,A173,1,A192,A202,1,26-35
+0-200 DM,36,existing paid,car (used),9398,A61,<1 year,1,A94,A101,4,A123,28,A143,A151,1,A174,1,A192,A201,0,26-35
+<0 DM,24,critical/other,car (used),6419,A61,>=7 years,2,A92,A101,4,A124,44,A143,A153,2,A174,2,A192,A201,1,36-45
+>=200 DM,42,critical/other,car (used),4796,A61,>=7 years,4,A93,A101,4,A124,56,A143,A153,1,A173,1,A191,A201,1,56-65
+no account,48,critical/other,business,7629,A65,>=7 years,4,A91,A101,2,A123,46,A141,A152,2,A174,2,A191,A201,1,46-55
+0-200 DM,48,existing paid,furniture/equipment,9960,A61,<1 year,1,A92,A101,2,A123,26,A143,A152,1,A173,1,A192,A201,0,26-35
+no account,12,existing paid,car (used),4675,A65,<1 year,1,A92,A101,4,A123,20,A143,A151,1,A173,1,A191,A201,1,18-25
+no account,10,existing paid,car (new),1287,A65,>=7 years,4,A93,A102,2,A122,45,A143,A152,1,A172,1,A191,A202,1,36-45
+no account,18,existing paid,furniture/equipment,2515,A61,1-4 years,3,A93,A101,4,A121,43,A143,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,21,critical/other,furniture/equipment,2745,A64,4-7 years,3,A93,A101,2,A123,32,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,6,existing paid,car (new),672,A61,unemployed,1,A92,A101,4,A121,54,A143,A152,1,A171,1,A192,A201,1,46-55
+0-200 DM,36,no credits/all paid,radio/TV,3804,A61,1-4 years,4,A92,A101,1,A123,42,A143,A152,1,A173,1,A192,A201,0,36-45
+>=200 DM,24,critical/other,car (new),1344,A65,4-7 years,4,A93,A101,2,A121,37,A141,A152,2,A172,2,A191,A201,0,36-45
+<0 DM,10,critical/other,car (new),1038,A61,4-7 years,4,A93,A102,3,A122,49,A143,A152,2,A173,1,A192,A201,1,46-55
+no account,48,critical/other,car (new),10127,A63,1-4 years,2,A93,A101,2,A124,44,A141,A153,1,A173,1,A191,A201,0,36-45
+no account,6,existing paid,furniture/equipment,1543,A64,1-4 years,4,A91,A101,2,A121,33,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,30,existing paid,car (used),4811,A65,4-7 years,2,A92,A101,4,A122,24,A142,A151,1,A172,1,A191,A201,1,18-25
+<0 DM,12,existing paid,radio/TV,727,A62,<1 year,4,A94,A101,3,A124,33,A143,A152,1,A172,1,A192,A201,0,26-35
+0-200 DM,8,existing paid,furniture/equipment,1237,A61,1-4 years,3,A92,A101,4,A121,24,A143,A152,1,A173,1,A191,A201,0,18-25
+0-200 DM,9,existing paid,car (new),276,A61,1-4 years,4,A94,A101,4,A121,22,A143,A151,1,A172,1,A191,A201,1,18-25
+0-200 DM,48,existing paid,others,5381,A65,unemployed,3,A93,A101,4,A124,40,A141,A153,1,A171,1,A192,A201,1,36-45
+no account,24,existing paid,furniture/equipment,5511,A62,1-4 years,4,A93,A101,1,A123,25,A142,A152,1,A173,1,A191,A201,1,18-25
+>=200 DM,24,existing paid,furniture/equipment,3749,A61,<1 year,2,A92,A101,4,A123,26,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,12,existing paid,car (new),685,A61,4-7 years,2,A94,A101,3,A123,25,A141,A152,1,A172,1,A191,A201,0,18-25
+>=200 DM,4,existing paid,car (new),1494,A65,<1 year,1,A93,A101,2,A121,29,A143,A152,1,A172,2,A191,A202,1,26-35
+<0 DM,36,all paid,furniture/equipment,2746,A61,>=7 years,4,A93,A101,4,A123,31,A141,A152,1,A173,1,A191,A201,0,26-35
+<0 DM,12,existing paid,furniture/equipment,708,A61,1-4 years,2,A93,A103,3,A122,38,A143,A152,1,A172,2,A191,A201,1,36-45
+0-200 DM,24,existing paid,furniture/equipment,4351,A65,1-4 years,1,A92,A101,4,A122,48,A143,A152,1,A172,1,A192,A201,1,46-55
+no account,12,critical/other,education,701,A61,1-4 years,4,A93,A101,2,A123,32,A143,A152,2,A173,1,A191,A201,1,26-35
+<0 DM,15,delay paid,furniture/equipment,3643,A61,>=7 years,1,A92,A101,4,A122,27,A143,A152,2,A172,1,A191,A201,1,26-35
+0-200 DM,30,critical/other,car (new),4249,A61,unemployed,4,A94,A101,2,A123,28,A143,A152,2,A174,1,A191,A201,0,26-35
+<0 DM,24,existing paid,radio/TV,1938,A61,<1 year,4,A91,A101,3,A122,32,A143,A152,1,A173,1,A191,A201,0,26-35
+<0 DM,24,existing paid,car (used),2910,A61,4-7 years,2,A93,A101,1,A124,34,A143,A153,1,A174,1,A192,A201,1,26-35
+<0 DM,18,existing paid,furniture/equipment,2659,A64,1-4 years,4,A93,A101,2,A123,28,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,18,critical/other,car (new),1028,A61,1-4 years,4,A92,A101,3,A121,36,A143,A152,2,A173,1,A191,A201,1,36-45
+<0 DM,8,critical/other,car (new),3398,A61,4-7 years,1,A93,A101,4,A121,39,A143,A152,2,A172,1,A191,A202,1,36-45
+no account,12,critical/other,furniture/equipment,5801,A65,>=7 years,2,A93,A101,4,A122,49,A143,A151,1,A173,1,A192,A201,1,46-55
+no account,24,existing paid,car (new),1525,A64,4-7 years,4,A92,A101,3,A123,34,A143,A152,1,A173,2,A192,A201,1,26-35
+>=200 DM,36,existing paid,radio/TV,4473,A61,>=7 years,4,A93,A101,2,A123,31,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,6,existing paid,radio/TV,1068,A61,>=7 years,4,A93,A101,4,A123,28,A143,A152,1,A173,2,A191,A201,1,26-35
+<0 DM,24,critical/other,car (used),6615,A61,unemployed,2,A93,A101,4,A124,75,A143,A153,2,A174,1,A192,A201,1,66+
+no account,18,critical/other,education,1864,A62,1-4 years,4,A92,A101,2,A121,30,A143,A152,2,A173,1,A191,A201,0,26-35
+0-200 DM,60,existing paid,car (new),7408,A62,<1 year,4,A92,A101,2,A122,24,A143,A152,1,A174,1,A191,A201,0,18-25
+no account,48,critical/other,car (used),11590,A62,1-4 years,2,A92,A101,4,A123,24,A141,A151,2,A172,1,A191,A201,0,18-25
+<0 DM,24,no credits/all paid,furniture/equipment,4110,A61,>=7 years,3,A93,A101,4,A124,23,A141,A151,2,A173,2,A191,A201,0,18-25
+<0 DM,6,critical/other,furniture/equipment,3384,A61,1-4 years,1,A91,A101,4,A121,44,A143,A151,1,A174,1,A192,A201,0,36-45
+0-200 DM,13,existing paid,radio/TV,2101,A61,<1 year,2,A92,A103,4,A122,23,A143,A152,1,A172,1,A191,A201,1,18-25
+<0 DM,15,existing paid,domestic appliances,1275,A65,1-4 years,4,A92,A101,2,A123,24,A143,A151,1,A173,1,A191,A201,0,18-25
+<0 DM,24,existing paid,furniture/equipment,4169,A61,1-4 years,4,A93,A101,4,A122,28,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,10,existing paid,furniture/equipment,1521,A61,1-4 years,4,A91,A101,2,A123,31,A143,A152,1,A172,1,A191,A201,1,26-35
+0-200 DM,24,critical/other,education,5743,A61,<1 year,2,A92,A101,4,A124,24,A143,A153,2,A173,1,A192,A201,1,18-25
+<0 DM,21,existing paid,furniture/equipment,3599,A61,4-7 years,1,A92,A101,4,A123,26,A143,A151,1,A172,1,A191,A201,1,26-35
+0-200 DM,18,existing paid,radio/TV,3213,A63,<1 year,1,A94,A101,3,A121,25,A143,A151,1,A173,1,A191,A201,1,18-25
+0-200 DM,18,existing paid,business,4439,A61,>=7 years,1,A93,A102,1,A121,33,A141,A152,1,A174,1,A192,A201,1,26-35
+>=200 DM,10,existing paid,car (new),3949,A61,<1 year,1,A93,A103,1,A122,37,A143,A152,1,A172,2,A191,A201,1,36-45
+no account,15,critical/other,radio/TV,1459,A61,1-4 years,4,A92,A101,2,A123,43,A143,A152,1,A172,1,A191,A201,1,36-45
+0-200 DM,13,critical/other,radio/TV,882,A61,<1 year,4,A93,A103,4,A121,23,A143,A152,2,A173,1,A191,A201,1,18-25
+0-200 DM,24,existing paid,radio/TV,3758,A63,unemployed,1,A92,A101,4,A124,23,A143,A151,1,A171,1,A191,A201,1,18-25
+no account,6,delay paid,business,1743,A62,1-4 years,1,A93,A101,2,A121,34,A143,A152,2,A172,1,A191,A201,1,26-35
+0-200 DM,9,critical/other,education,1136,A64,>=7 years,4,A93,A101,3,A124,32,A143,A153,2,A173,2,A191,A201,0,26-35
+no account,9,existing paid,domestic appliances,1236,A61,<1 year,1,A92,A101,4,A121,23,A143,A151,1,A173,1,A192,A201,1,18-25
+0-200 DM,9,existing paid,furniture/equipment,959,A61,1-4 years,1,A92,A101,2,A123,29,A143,A152,1,A173,1,A191,A202,0,26-35
+no account,18,critical/other,car (used),3229,A65,unemployed,2,A93,A101,4,A124,38,A143,A152,1,A174,1,A192,A201,1,36-45
+<0 DM,12,no credits/all paid,radio/TV,6199,A61,1-4 years,4,A93,A101,2,A122,28,A143,A151,2,A173,1,A192,A201,0,26-35
+no account,10,existing paid,education,727,A63,>=7 years,4,A93,A101,4,A124,46,A143,A153,1,A173,1,A192,A201,1,46-55
+0-200 DM,24,existing paid,car (new),1246,A61,<1 year,4,A93,A101,2,A121,23,A142,A152,1,A172,1,A191,A201,0,18-25
+no account,12,critical/other,radio/TV,2331,A65,>=7 years,1,A93,A102,4,A121,49,A143,A152,1,A173,1,A192,A201,1,46-55
+no account,36,delay paid,radio/TV,4463,A61,1-4 years,4,A93,A101,2,A123,26,A143,A152,2,A174,1,A192,A201,0,26-35
+no account,12,existing paid,radio/TV,776,A61,1-4 years,4,A94,A101,2,A121,28,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,30,existing paid,furniture/equipment,2406,A61,4-7 years,4,A92,A101,4,A121,23,A143,A151,1,A173,1,A191,A201,0,18-25
+0-200 DM,18,existing paid,education,1239,A65,1-4 years,4,A93,A101,4,A124,61,A143,A153,1,A173,1,A191,A201,1,56-65
+>=200 DM,12,existing paid,radio/TV,3399,A65,>=7 years,2,A93,A101,3,A123,37,A143,A152,1,A174,1,A191,A201,1,36-45
+>=200 DM,12,delay paid,car (new),2247,A61,1-4 years,2,A92,A101,2,A123,36,A142,A152,2,A173,1,A192,A201,1,36-45
+no account,6,existing paid,furniture/equipment,1766,A61,1-4 years,1,A94,A101,2,A122,21,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,18,existing paid,furniture/equipment,2473,A61,unemployed,4,A93,A101,1,A123,25,A143,A152,1,A171,1,A191,A201,0,18-25
+no account,12,existing paid,business,1542,A61,4-7 years,2,A93,A101,4,A123,36,A143,A152,1,A173,1,A192,A201,1,36-45
+no account,18,critical/other,car (used),3850,A61,4-7 years,3,A93,A101,1,A123,27,A143,A152,2,A173,1,A191,A201,1,26-35
+<0 DM,18,existing paid,furniture/equipment,3650,A61,<1 year,1,A92,A101,4,A123,22,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,36,existing paid,furniture/equipment,3446,A61,>=7 years,4,A93,A101,2,A123,42,A143,A152,1,A173,2,A191,A201,0,36-45
+0-200 DM,18,existing paid,furniture/equipment,3001,A61,4-7 years,2,A92,A101,4,A121,40,A143,A151,1,A173,1,A191,A201,1,36-45
+no account,36,existing paid,car (new),3079,A65,1-4 years,4,A93,A101,4,A121,36,A143,A152,1,A173,1,A191,A201,1,36-45
+no account,18,critical/other,radio/TV,6070,A61,>=7 years,3,A93,A101,4,A123,33,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,10,critical/other,furniture/equipment,2146,A61,<1 year,1,A92,A101,3,A121,23,A143,A151,2,A173,1,A191,A201,1,18-25
+no account,60,critical/other,car (new),13756,A65,>=7 years,2,A93,A101,4,A124,63,A141,A153,1,A174,1,A192,A201,1,56-65
+0-200 DM,60,all paid,others,14782,A62,>=7 years,3,A92,A101,4,A124,60,A141,A153,2,A174,1,A192,A201,0,56-65
+<0 DM,48,all paid,business,7685,A61,4-7 years,2,A92,A103,4,A123,37,A143,A151,1,A173,1,A191,A201,0,36-45
+no account,18,delay paid,radio/TV,2320,A61,unemployed,2,A94,A101,3,A121,34,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,7,delay paid,radio/TV,846,A65,>=7 years,3,A93,A101,4,A124,36,A143,A153,1,A173,1,A191,A201,1,36-45
+0-200 DM,36,existing paid,car (new),14318,A61,>=7 years,4,A93,A101,2,A124,57,A143,A153,1,A174,1,A192,A201,0,56-65
+no account,6,critical/other,car (new),362,A62,1-4 years,4,A92,A101,4,A123,52,A143,A152,2,A172,1,A191,A201,1,46-55
+<0 DM,20,existing paid,furniture/equipment,2212,A65,4-7 years,4,A93,A101,4,A123,39,A143,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,18,existing paid,car (used),12976,A61,unemployed,3,A92,A101,4,A124,38,A143,A153,1,A174,1,A192,A201,0,36-45
+no account,22,existing paid,car (new),1283,A65,4-7 years,4,A92,A101,4,A122,25,A143,A151,1,A173,1,A191,A201,1,18-25
+>=200 DM,12,existing paid,car (new),1330,A61,<1 year,4,A93,A101,1,A121,26,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,30,delay paid,business,4272,A62,1-4 years,2,A93,A101,2,A122,26,A143,A152,2,A172,1,A191,A201,1,26-35
+no account,18,critical/other,radio/TV,2238,A61,1-4 years,2,A92,A101,1,A123,25,A143,A152,2,A173,1,A191,A201,1,18-25
+no account,18,existing paid,radio/TV,1126,A65,<1 year,4,A92,A101,2,A121,21,A143,A151,1,A173,1,A192,A201,1,18-25
+0-200 DM,18,critical/other,furniture/equipment,7374,A61,unemployed,4,A93,A101,4,A122,40,A142,A152,2,A174,1,A192,A201,1,36-45
+0-200 DM,15,critical/other,business,2326,A63,1-4 years,2,A93,A101,4,A123,27,A141,A152,1,A173,1,A191,A201,1,26-35
+no account,9,existing paid,business,1449,A61,4-7 years,3,A92,A101,2,A123,27,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,18,existing paid,car (new),1820,A61,1-4 years,2,A94,A101,2,A122,30,A143,A152,1,A174,1,A192,A201,1,26-35
+0-200 DM,12,existing paid,furniture/equipment,983,A64,<1 year,1,A92,A101,4,A121,19,A143,A151,1,A172,1,A191,A201,1,18-25
+<0 DM,36,existing paid,car (new),3249,A61,4-7 years,2,A93,A101,4,A124,39,A141,A153,1,A174,2,A192,A201,1,36-45
+<0 DM,6,critical/other,radio/TV,1957,A61,4-7 years,1,A92,A101,4,A123,31,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,9,critical/other,furniture/equipment,2406,A61,unemployed,2,A93,A101,3,A123,31,A143,A152,1,A174,1,A191,A201,1,26-35
+0-200 DM,39,delay paid,education,11760,A62,4-7 years,2,A93,A101,3,A124,32,A143,A151,1,A173,1,A192,A201,1,26-35
+<0 DM,12,existing paid,furniture/equipment,2578,A61,unemployed,3,A92,A101,4,A124,55,A143,A153,1,A174,1,A191,A201,1,46-55
+<0 DM,36,critical/other,furniture/equipment,2348,A61,1-4 years,3,A94,A101,2,A122,46,A143,A152,2,A173,1,A192,A201,1,46-55
+0-200 DM,12,existing paid,car (new),1223,A61,>=7 years,1,A91,A101,1,A121,46,A143,A151,2,A173,1,A191,A201,0,46-55
+no account,24,critical/other,radio/TV,1516,A64,1-4 years,4,A92,A101,1,A121,43,A143,A152,2,A172,1,A191,A201,1,36-45
+no account,18,existing paid,radio/TV,1473,A61,<1 year,3,A94,A101,4,A121,39,A143,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,18,critical/other,business,1887,A65,1-4 years,4,A94,A101,4,A121,28,A141,A152,2,A173,1,A191,A201,1,26-35
+no account,24,delay paid,business,8648,A61,<1 year,2,A93,A101,2,A123,27,A141,A152,2,A173,1,A192,A201,0,26-35
+no account,14,delay paid,car (new),802,A61,1-4 years,4,A93,A101,2,A123,27,A143,A152,2,A172,1,A191,A201,1,26-35
+0-200 DM,18,delay paid,car (new),2899,A65,>=7 years,4,A93,A101,4,A123,43,A143,A152,1,A173,2,A191,A201,1,36-45
+0-200 DM,24,existing paid,radio/TV,2039,A61,<1 year,1,A94,A101,1,A122,22,A143,A152,1,A173,1,A192,A201,0,18-25
+no account,24,critical/other,car (used),2197,A65,4-7 years,4,A93,A101,4,A123,43,A143,A152,2,A173,2,A192,A201,1,36-45
+<0 DM,15,existing paid,radio/TV,1053,A61,<1 year,4,A94,A101,2,A121,27,A143,A152,1,A173,1,A191,A202,1,26-35
+no account,24,existing paid,radio/TV,3235,A63,>=7 years,3,A91,A101,2,A123,26,A143,A152,1,A174,1,A192,A201,1,26-35
+>=200 DM,12,critical/other,car (new),939,A63,4-7 years,4,A94,A101,2,A121,28,A143,A152,3,A173,1,A192,A201,0,26-35
+0-200 DM,24,existing paid,radio/TV,1967,A61,>=7 years,4,A92,A101,4,A123,20,A143,A152,1,A173,1,A192,A201,1,18-25
+no account,33,critical/other,car (used),7253,A61,4-7 years,3,A93,A101,2,A123,35,A143,A152,2,A174,1,A192,A201,1,26-35
+no account,12,critical/other,business,2292,A61,unemployed,4,A93,A101,2,A123,42,A142,A152,2,A174,1,A192,A201,0,36-45
+no account,10,existing paid,car (new),1597,A63,1-4 years,3,A93,A101,2,A124,40,A143,A151,1,A172,2,A191,A202,1,36-45
+<0 DM,24,existing paid,car (new),1381,A65,1-4 years,4,A92,A101,2,A122,35,A143,A152,1,A173,1,A191,A201,0,26-35
+no account,36,critical/other,car (used),5842,A61,>=7 years,2,A93,A101,2,A122,35,A143,A152,2,A173,2,A192,A201,1,26-35
+<0 DM,12,existing paid,car (new),2579,A61,<1 year,4,A93,A101,1,A121,33,A143,A152,1,A172,2,A191,A201,0,26-35
+<0 DM,18,delay paid,education,8471,A65,1-4 years,1,A92,A101,2,A123,23,A143,A151,2,A173,1,A192,A201,1,18-25
+no account,21,existing paid,car (new),2782,A63,4-7 years,1,A92,A101,2,A123,31,A141,A152,1,A174,1,A191,A201,1,26-35
+0-200 DM,18,existing paid,car (new),1042,A65,1-4 years,4,A92,A101,2,A122,33,A143,A152,1,A173,1,A191,A201,0,26-35
+no account,15,existing paid,car (new),3186,A64,4-7 years,2,A92,A101,3,A123,20,A143,A151,1,A173,1,A191,A201,1,18-25
+0-200 DM,12,existing paid,car (used),2028,A65,1-4 years,4,A93,A101,2,A123,30,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,12,critical/other,car (new),958,A61,4-7 years,2,A93,A101,3,A121,47,A143,A152,2,A172,2,A191,A201,1,46-55
+no account,21,delay paid,furniture/equipment,1591,A62,4-7 years,4,A93,A101,3,A121,34,A143,A152,2,A174,1,A191,A201,1,26-35
+0-200 DM,12,existing paid,furniture/equipment,2762,A65,>=7 years,1,A92,A101,2,A122,25,A141,A152,1,A173,1,A192,A201,0,18-25
+0-200 DM,18,existing paid,car (used),2779,A61,1-4 years,1,A94,A101,3,A123,21,A143,A151,1,A173,1,A192,A201,1,18-25
+no account,28,critical/other,radio/TV,2743,A61,>=7 years,4,A93,A101,2,A123,29,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,18,critical/other,radio/TV,1149,A64,1-4 years,4,A93,A101,3,A121,46,A143,A152,2,A173,1,A191,A201,1,46-55
+no account,9,existing paid,furniture/equipment,1313,A61,>=7 years,1,A93,A101,4,A123,20,A143,A152,1,A173,1,A191,A201,1,18-25
+<0 DM,18,critical/other,repairs,1190,A61,unemployed,2,A92,A101,4,A124,55,A143,A153,3,A171,2,A191,A201,0,46-55
+no account,5,existing paid,business,3448,A61,4-7 years,1,A93,A101,4,A121,74,A143,A152,1,A172,1,A191,A201,1,66+
+0-200 DM,24,existing paid,others,11328,A61,1-4 years,2,A93,A102,3,A123,29,A141,A152,2,A174,1,A192,A201,0,26-35
+<0 DM,6,critical/other,furniture/equipment,1872,A61,unemployed,4,A93,A101,4,A124,36,A143,A153,3,A174,1,A192,A201,1,36-45
+no account,24,critical/other,repairs,2058,A61,1-4 years,4,A91,A101,2,A121,33,A143,A152,2,A173,1,A192,A201,1,26-35
+<0 DM,9,existing paid,furniture/equipment,2136,A61,1-4 years,3,A93,A101,2,A121,25,A143,A152,1,A173,1,A191,A201,1,18-25
+0-200 DM,12,existing paid,radio/TV,1484,A65,1-4 years,2,A94,A101,1,A121,25,A143,A152,1,A173,1,A192,A201,0,18-25
+no account,6,existing paid,repairs,660,A63,4-7 years,2,A94,A101,4,A121,23,A143,A151,1,A172,1,A191,A201,1,18-25
+no account,24,critical/other,car (new),1287,A64,>=7 years,4,A92,A101,4,A121,37,A143,A152,2,A173,1,A192,A201,1,36-45
+<0 DM,42,critical/other,repairs,3394,A61,unemployed,4,A93,A102,4,A123,65,A143,A152,2,A171,1,A191,A201,1,56-65
+>=200 DM,12,all paid,business,609,A61,<1 year,4,A92,A101,1,A121,26,A143,A152,1,A171,1,A191,A201,0,26-35
+no account,12,existing paid,car (new),1884,A61,>=7 years,4,A93,A101,4,A123,39,A143,A152,1,A174,1,A192,A201,1,36-45
+<0 DM,12,existing paid,furniture/equipment,1620,A61,1-4 years,2,A92,A102,3,A122,30,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,20,delay paid,others,2629,A61,1-4 years,2,A93,A101,3,A123,29,A141,A152,2,A173,1,A192,A201,1,26-35
+no account,12,existing paid,education,719,A61,>=7 years,4,A93,A101,4,A123,41,A141,A152,1,A172,2,A191,A201,0,36-45
+0-200 DM,48,critical/other,furniture/equipment,5096,A61,1-4 years,2,A92,A101,3,A123,30,A143,A152,1,A174,1,A192,A201,0,26-35
+no account,9,critical/other,education,1244,A65,>=7 years,4,A92,A101,4,A122,41,A143,A151,2,A172,1,A191,A201,1,36-45
+<0 DM,36,existing paid,car (new),1842,A61,<1 year,4,A92,A101,4,A123,34,A143,A152,1,A173,1,A192,A201,0,26-35
+0-200 DM,7,existing paid,radio/TV,2576,A61,1-4 years,2,A93,A103,2,A121,35,A143,A152,1,A173,1,A191,A201,1,26-35
+>=200 DM,12,existing paid,furniture/equipment,1424,A65,>=7 years,3,A92,A101,4,A121,55,A143,A152,1,A174,1,A192,A201,1,46-55
+0-200 DM,15,delay paid,repairs,1512,A64,1-4 years,3,A94,A101,3,A122,61,A142,A152,2,A173,1,A191,A201,0,56-65
+no account,36,critical/other,car (used),11054,A65,1-4 years,4,A93,A101,2,A123,30,A143,A152,1,A174,1,A192,A201,1,26-35
+no account,6,existing paid,radio/TV,518,A61,1-4 years,3,A92,A101,1,A121,29,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,12,no credits/all paid,furniture/equipment,2759,A61,>=7 years,2,A93,A101,4,A122,34,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,24,existing paid,car (used),2670,A61,>=7 years,4,A93,A101,4,A123,35,A143,A152,1,A174,1,A192,A201,1,26-35
+<0 DM,24,existing paid,car (new),4817,A61,4-7 years,2,A93,A102,3,A122,31,A143,A152,1,A173,1,A192,A201,0,26-35
+no account,24,existing paid,car (used),2679,A61,<1 year,4,A92,A101,1,A124,29,A143,A152,1,A174,1,A192,A201,1,26-35
+<0 DM,11,critical/other,car (new),3905,A61,1-4 years,2,A93,A101,2,A121,36,A143,A151,2,A173,2,A191,A201,1,36-45
+<0 DM,12,existing paid,car (used),3386,A61,>=7 years,3,A93,A101,4,A124,35,A143,A153,1,A173,1,A192,A201,0,26-35
+<0 DM,6,existing paid,domestic appliances,343,A61,<1 year,4,A92,A101,1,A121,27,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,18,existing paid,radio/TV,4594,A61,<1 year,3,A93,A101,2,A123,32,A143,A152,1,A173,1,A192,A201,1,26-35
+<0 DM,36,existing paid,furniture/equipment,3620,A61,1-4 years,1,A93,A103,2,A122,37,A143,A152,1,A173,2,A191,A201,1,36-45
+<0 DM,15,existing paid,car (new),1721,A61,<1 year,2,A93,A101,3,A121,36,A143,A152,1,A173,1,A191,A201,1,36-45
+0-200 DM,12,existing paid,furniture/equipment,3017,A61,<1 year,3,A92,A101,1,A121,34,A143,A151,1,A174,1,A191,A201,1,26-35
+0-200 DM,12,existing paid,retraining,754,A65,>=7 years,4,A93,A101,4,A122,38,A143,A152,2,A173,1,A191,A201,1,36-45
+no account,18,existing paid,business,1950,A61,4-7 years,4,A93,A101,1,A123,34,A142,A152,2,A173,1,A192,A201,1,26-35
+<0 DM,24,existing paid,car (used),2924,A61,1-4 years,3,A93,A103,4,A124,63,A141,A152,1,A173,2,A192,A201,1,56-65
+<0 DM,24,delay paid,radio/TV,1659,A61,<1 year,4,A92,A101,2,A123,29,A143,A151,1,A172,1,A192,A201,0,26-35
+no account,48,delay paid,radio/TV,7238,A65,>=7 years,3,A93,A101,3,A123,32,A141,A152,2,A173,2,A191,A201,1,26-35
+no account,33,delay paid,business,2764,A61,1-4 years,2,A92,A101,2,A123,26,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,24,delay paid,car (used),4679,A61,4-7 years,3,A93,A101,3,A123,35,A143,A152,2,A172,1,A192,A201,1,26-35
+0-200 DM,24,existing paid,radio/TV,3092,A62,<1 year,3,A94,A101,2,A123,22,A143,A151,1,A173,1,A192,A201,0,18-25
+<0 DM,6,existing paid,education,448,A61,<1 year,4,A92,A101,4,A122,23,A143,A152,1,A173,1,A191,A201,0,18-25
+<0 DM,9,existing paid,car (new),654,A61,1-4 years,4,A93,A101,3,A123,28,A143,A152,1,A172,1,A191,A201,0,26-35
+no account,6,existing paid,retraining,1238,A65,unemployed,4,A93,A101,4,A122,36,A143,A152,1,A174,2,A192,A201,1,36-45
+0-200 DM,18,critical/other,radio/TV,1245,A61,1-4 years,4,A94,A101,2,A123,33,A143,A152,1,A173,1,A191,A201,0,26-35
+<0 DM,18,no credits/all paid,furniture/equipment,3114,A61,<1 year,1,A92,A101,4,A122,26,A143,A151,1,A173,1,A191,A201,0,26-35
+no account,39,existing paid,car (used),2569,A63,1-4 years,4,A93,A101,4,A123,24,A143,A152,1,A173,1,A191,A201,1,18-25
+>=200 DM,24,existing paid,radio/TV,5152,A61,4-7 years,4,A93,A101,2,A123,25,A141,A152,1,A173,1,A191,A201,1,18-25
+0-200 DM,12,existing paid,business,1037,A62,4-7 years,3,A93,A101,4,A121,39,A143,A152,1,A172,1,A191,A201,1,36-45
+<0 DM,15,critical/other,furniture/equipment,1478,A61,>=7 years,4,A93,A101,4,A123,44,A143,A152,2,A173,2,A192,A201,1,36-45
+0-200 DM,12,critical/other,radio/TV,3573,A61,1-4 years,1,A92,A101,1,A121,23,A143,A152,1,A172,1,A191,A201,1,18-25
+0-200 DM,24,existing paid,car (new),1201,A61,<1 year,4,A93,A101,1,A122,26,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,30,existing paid,furniture/equipment,3622,A64,>=7 years,4,A92,A101,4,A122,57,A143,A151,2,A173,1,A192,A201,1,56-65
+no account,15,delay paid,furniture/equipment,960,A64,4-7 years,3,A92,A101,2,A122,30,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,12,critical/other,car (new),1163,A63,1-4 years,4,A93,A101,4,A121,44,A143,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,6,delay paid,car (new),1209,A61,unemployed,4,A93,A101,4,A122,47,A143,A152,1,A174,1,A192,A201,0,46-55
+no account,12,existing paid,radio/TV,3077,A61,1-4 years,2,A93,A101,4,A123,52,A143,A152,1,A173,1,A192,A201,1,46-55
+no account,24,existing paid,car (new),3757,A61,>=7 years,4,A92,A102,4,A124,62,A143,A153,1,A173,1,A192,A201,1,56-65
+no account,10,existing paid,car (new),1418,A62,1-4 years,3,A93,A101,2,A121,35,A143,A151,1,A172,1,A191,A202,1,26-35
+no account,6,existing paid,car (new),3518,A61,1-4 years,2,A93,A103,3,A122,26,A143,A151,1,A173,1,A191,A201,1,26-35
+no account,12,critical/other,radio/TV,1934,A61,>=7 years,2,A93,A101,2,A124,26,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,27,no credits/all paid,business,8318,A61,>=7 years,2,A92,A101,4,A124,42,A143,A153,2,A174,1,A192,A201,0,36-45
+no account,6,critical/other,radio/TV,1237,A62,1-4 years,1,A92,A101,1,A122,27,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,6,existing paid,radio/TV,368,A65,>=7 years,4,A93,A101,4,A122,38,A143,A152,1,A173,1,A191,A201,1,36-45
+<0 DM,12,critical/other,car (new),2122,A61,1-4 years,3,A93,A101,2,A121,39,A143,A151,2,A172,2,A191,A202,1,36-45
+<0 DM,24,existing paid,furniture/equipment,2996,A65,1-4 years,2,A94,A101,4,A123,20,A143,A152,1,A173,1,A191,A201,0,18-25
+0-200 DM,36,existing paid,furniture/equipment,9034,A62,<1 year,4,A93,A102,1,A124,29,A143,A151,1,A174,1,A192,A201,0,26-35
+no account,24,critical/other,furniture/equipment,1585,A61,4-7 years,4,A93,A101,3,A122,40,A143,A152,2,A173,1,A191,A201,1,36-45
+0-200 DM,18,existing paid,radio/TV,1301,A61,>=7 years,4,A94,A103,2,A121,32,A143,A152,1,A172,1,A191,A201,1,26-35
+>=200 DM,6,critical/other,car (new),1323,A62,>=7 years,2,A91,A101,4,A123,28,A143,A152,2,A173,2,A192,A201,1,26-35
+<0 DM,24,existing paid,car (new),3123,A61,<1 year,4,A92,A101,1,A122,27,A143,A152,1,A173,1,A191,A201,0,26-35
+<0 DM,36,existing paid,car (used),5493,A61,>=7 years,2,A93,A101,4,A124,42,A143,A153,1,A173,2,A191,A201,1,36-45
+>=200 DM,9,existing paid,radio/TV,1126,A62,>=7 years,2,A91,A101,4,A121,49,A143,A152,1,A173,1,A191,A201,1,46-55
+0-200 DM,24,critical/other,radio/TV,1216,A62,<1 year,4,A93,A101,4,A124,38,A141,A152,2,A173,2,A191,A201,0,36-45
+<0 DM,24,existing paid,car (new),1207,A61,<1 year,4,A92,A101,4,A122,24,A143,A151,1,A173,1,A191,A201,0,18-25
+no account,10,existing paid,car (new),1309,A65,1-4 years,4,A93,A103,4,A122,27,A143,A152,1,A172,1,A191,A201,0,26-35
+>=200 DM,15,critical/other,car (used),2360,A63,1-4 years,2,A93,A101,2,A123,36,A143,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,15,all paid,car (new),6850,A62,unemployed,1,A93,A101,2,A122,34,A143,A152,1,A174,2,A192,A201,0,26-35
+no account,24,existing paid,radio/TV,1413,A61,1-4 years,4,A94,A101,2,A122,28,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,39,existing paid,car (used),8588,A62,>=7 years,4,A93,A101,2,A123,45,A143,A152,1,A174,1,A192,A201,1,36-45
+<0 DM,12,existing paid,car (new),759,A61,4-7 years,4,A93,A101,2,A121,26,A143,A152,1,A173,1,A191,A201,0,26-35
+no account,36,existing paid,car (used),4686,A61,1-4 years,2,A93,A101,2,A124,32,A143,A153,1,A174,1,A192,A201,1,26-35
+>=200 DM,15,existing paid,business,2687,A61,4-7 years,2,A93,A101,4,A122,26,A143,A151,1,A173,1,A192,A201,1,26-35
+0-200 DM,12,delay paid,radio/TV,585,A61,1-4 years,4,A94,A102,4,A121,20,A143,A151,2,A173,1,A191,A201,1,18-25
+no account,24,existing paid,car (new),2255,A65,<1 year,4,A93,A101,1,A122,54,A143,A152,1,A173,1,A191,A201,1,46-55
+<0 DM,6,critical/other,car (new),609,A61,4-7 years,4,A92,A101,3,A122,37,A143,A152,2,A173,1,A191,A202,1,36-45
+<0 DM,6,critical/other,car (new),1361,A61,<1 year,2,A93,A101,4,A121,40,A143,A152,1,A172,2,A191,A202,1,36-45
+no account,36,critical/other,furniture/equipment,7127,A61,<1 year,2,A92,A101,4,A122,23,A143,A151,2,A173,1,A192,A201,0,18-25
+<0 DM,6,existing paid,car (new),1203,A62,>=7 years,3,A93,A101,2,A122,43,A143,A152,1,A173,1,A192,A201,1,36-45
+no account,6,critical/other,radio/TV,700,A65,>=7 years,4,A93,A101,4,A124,36,A143,A153,2,A173,1,A191,A201,1,36-45
+no account,24,critical/other,repairs,5507,A61,>=7 years,3,A93,A101,4,A124,44,A143,A153,2,A173,1,A191,A201,1,36-45
+<0 DM,18,existing paid,radio/TV,3190,A61,1-4 years,2,A92,A101,2,A121,24,A143,A152,1,A173,1,A191,A201,0,18-25
+<0 DM,48,no credits/all paid,furniture/equipment,7119,A61,1-4 years,3,A93,A101,4,A124,53,A143,A153,2,A173,2,A191,A201,0,46-55
+no account,24,existing paid,car (used),3488,A62,4-7 years,3,A92,A101,4,A123,23,A143,A152,1,A173,1,A191,A201,1,18-25
+0-200 DM,18,existing paid,radio/TV,1113,A61,1-4 years,4,A92,A103,4,A121,26,A143,A152,1,A172,2,A191,A201,1,26-35
+0-200 DM,26,existing paid,car (used),7966,A61,<1 year,2,A93,A101,3,A123,30,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,15,critical/other,education,1532,A62,1-4 years,4,A92,A101,3,A123,31,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,4,critical/other,radio/TV,1503,A61,4-7 years,2,A93,A101,1,A121,42,A143,A152,2,A172,2,A191,A201,1,36-45
+<0 DM,36,existing paid,radio/TV,2302,A61,1-4 years,4,A91,A101,4,A123,31,A143,A151,1,A173,1,A191,A201,0,26-35
+<0 DM,6,existing paid,car (new),662,A61,<1 year,3,A93,A101,4,A121,41,A143,A152,1,A172,2,A192,A201,1,36-45
+0-200 DM,36,existing paid,education,2273,A61,4-7 years,3,A93,A101,1,A123,32,A143,A152,2,A173,2,A191,A201,1,26-35
+0-200 DM,15,existing paid,car (new),2631,A62,1-4 years,2,A92,A101,4,A123,28,A143,A151,2,A173,1,A192,A201,0,26-35
+no account,12,delay paid,car (used),1503,A61,1-4 years,4,A94,A101,4,A121,41,A143,A151,1,A173,1,A191,A201,1,36-45
+no account,24,existing paid,radio/TV,1311,A62,4-7 years,4,A94,A101,3,A122,26,A143,A152,1,A173,1,A192,A201,1,26-35
+no account,24,existing paid,radio/TV,3105,A65,<1 year,4,A93,A101,2,A123,25,A143,A152,2,A173,1,A191,A201,1,18-25
+>=200 DM,21,critical/other,education,2319,A61,<1 year,2,A91,A101,1,A123,33,A143,A151,1,A173,1,A191,A201,0,26-35
+<0 DM,6,existing paid,car (new),1374,A65,unemployed,4,A92,A101,3,A122,75,A143,A152,1,A174,1,A192,A201,1,66+
+0-200 DM,18,critical/other,furniture/equipment,3612,A61,>=7 years,3,A92,A101,4,A122,37,A143,A152,1,A173,1,A192,A201,1,36-45
+<0 DM,48,existing paid,car (new),7763,A61,>=7 years,4,A93,A101,4,A124,42,A141,A153,1,A174,1,A191,A201,0,36-45
+>=200 DM,18,existing paid,furniture/equipment,3049,A61,<1 year,1,A92,A101,1,A122,45,A142,A152,1,A172,1,A191,A201,1,36-45
+0-200 DM,12,existing paid,radio/TV,1534,A61,<1 year,1,A94,A101,1,A121,23,A143,A151,1,A173,1,A191,A201,0,18-25
+no account,24,delay paid,car (new),2032,A61,>=7 years,4,A93,A101,4,A124,60,A143,A153,2,A173,1,A192,A201,1,56-65
+<0 DM,30,existing paid,furniture/equipment,6350,A65,>=7 years,4,A93,A101,4,A122,31,A143,A152,1,A173,1,A191,A201,0,26-35
+>=200 DM,18,existing paid,furniture/equipment,2864,A61,1-4 years,2,A93,A101,1,A121,34,A143,A152,1,A172,2,A191,A201,0,26-35
+no account,12,critical/other,car (new),1255,A61,>=7 years,4,A93,A101,4,A121,61,A143,A152,2,A172,1,A191,A201,1,56-65
+<0 DM,24,delay paid,car (new),1333,A61,unemployed,4,A93,A101,2,A121,43,A143,A153,2,A173,2,A191,A201,0,36-45
+no account,24,critical/other,car (new),2022,A61,1-4 years,4,A92,A101,4,A123,37,A143,A152,1,A173,1,A192,A201,1,36-45
+no account,24,existing paid,radio/TV,1552,A61,4-7 years,3,A93,A101,1,A123,32,A141,A152,1,A173,2,A191,A201,1,26-35
+<0 DM,12,all paid,radio/TV,626,A61,1-4 years,4,A92,A101,4,A121,24,A141,A152,1,A172,1,A191,A201,0,18-25
+no account,48,critical/other,car (used),8858,A65,4-7 years,2,A93,A101,1,A124,35,A143,A153,2,A173,1,A192,A201,1,26-35
+no account,12,critical/other,repairs,996,A65,4-7 years,4,A92,A101,4,A121,23,A143,A152,2,A173,1,A191,A201,1,18-25
+no account,6,all paid,radio/TV,1750,A63,>=7 years,2,A93,A101,4,A122,45,A141,A152,1,A172,2,A191,A201,1,36-45
+<0 DM,48,existing paid,radio/TV,6999,A61,4-7 years,1,A94,A103,1,A121,34,A143,A152,2,A173,1,A192,A201,0,26-35
+0-200 DM,12,critical/other,car (new),1995,A62,<1 year,4,A93,A101,1,A123,27,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,9,existing paid,education,1199,A61,4-7 years,4,A92,A101,4,A122,67,A143,A152,2,A174,1,A192,A201,1,66+
+0-200 DM,12,existing paid,radio/TV,1331,A61,<1 year,2,A93,A101,1,A123,22,A142,A152,1,A173,1,A191,A201,0,18-25
+0-200 DM,18,no credits/all paid,car (new),2278,A62,<1 year,3,A92,A101,3,A123,28,A143,A152,2,A173,1,A191,A201,0,26-35
+no account,21,no credits/all paid,car (new),5003,A65,1-4 years,1,A92,A101,4,A122,29,A141,A152,2,A173,1,A192,A201,0,26-35
+<0 DM,24,all paid,furniture/equipment,3552,A61,4-7 years,3,A93,A101,4,A123,27,A141,A152,1,A173,1,A191,A201,0,26-35
+0-200 DM,18,critical/other,furniture/equipment,1928,A61,<1 year,2,A93,A101,2,A121,31,A143,A152,2,A172,1,A191,A201,0,26-35
+<0 DM,24,existing paid,car (used),2964,A65,>=7 years,4,A93,A101,4,A124,49,A141,A153,1,A173,2,A192,A201,1,46-55
+<0 DM,24,all paid,radio/TV,1546,A61,4-7 years,4,A93,A103,4,A123,24,A141,A151,1,A172,1,A191,A201,0,18-25
+>=200 DM,6,delay paid,radio/TV,683,A61,<1 year,2,A92,A101,1,A122,29,A141,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,36,existing paid,car (new),12389,A65,1-4 years,1,A93,A101,4,A124,37,A143,A153,1,A173,1,A192,A201,0,36-45
+0-200 DM,24,delay paid,business,4712,A65,1-4 years,4,A93,A101,2,A122,37,A141,A152,2,A174,1,A192,A201,1,36-45
+0-200 DM,24,delay paid,radio/TV,1553,A62,4-7 years,3,A92,A101,2,A122,23,A143,A151,2,A173,1,A192,A201,1,18-25
+<0 DM,12,existing paid,car (new),1372,A61,4-7 years,2,A91,A101,3,A123,36,A143,A152,1,A173,1,A191,A201,0,36-45
+no account,24,critical/other,radio/TV,2578,A64,>=7 years,2,A93,A101,2,A123,34,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,48,existing paid,radio/TV,3979,A65,4-7 years,4,A93,A101,1,A123,41,A143,A152,2,A173,2,A192,A201,1,36-45
+<0 DM,48,existing paid,radio/TV,6758,A61,1-4 years,3,A92,A101,2,A123,31,A143,A152,1,A173,1,A192,A201,0,26-35
+<0 DM,24,existing paid,furniture/equipment,3234,A61,<1 year,4,A92,A101,4,A121,23,A143,A151,1,A172,1,A192,A201,0,18-25
+no account,30,critical/other,radio/TV,5954,A61,4-7 years,3,A93,A102,2,A123,38,A143,A152,1,A173,1,A191,A201,1,36-45
+no account,24,existing paid,car (used),5433,A65,unemployed,2,A92,A101,4,A122,26,A143,A151,1,A174,1,A192,A201,1,26-35
+<0 DM,15,existing paid,business,806,A61,1-4 years,4,A92,A101,4,A122,22,A143,A152,1,A172,1,A191,A201,1,18-25
+0-200 DM,9,existing paid,radio/TV,1082,A61,>=7 years,4,A93,A101,4,A123,27,A143,A152,2,A172,1,A191,A201,1,26-35
+no account,15,critical/other,furniture/equipment,2788,A61,4-7 years,2,A92,A102,3,A123,24,A141,A152,2,A173,1,A191,A201,1,18-25
+0-200 DM,12,existing paid,radio/TV,2930,A61,4-7 years,2,A92,A101,1,A121,27,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,24,critical/other,education,1927,A65,1-4 years,3,A92,A101,2,A123,33,A143,A152,2,A173,1,A192,A201,1,26-35
+0-200 DM,36,critical/other,car (new),2820,A61,<1 year,4,A91,A101,4,A123,27,A143,A152,2,A173,1,A191,A201,0,26-35
+no account,24,existing paid,retraining,937,A61,<1 year,4,A94,A101,3,A123,27,A143,A152,2,A172,1,A191,A201,1,26-35
+0-200 DM,18,critical/other,car (new),1056,A61,>=7 years,3,A93,A103,3,A121,30,A141,A152,2,A173,1,A191,A201,0,26-35
+0-200 DM,12,critical/other,car (new),3124,A61,<1 year,1,A93,A101,3,A121,49,A141,A152,2,A172,2,A191,A201,1,46-55
+no account,9,existing paid,furniture/equipment,1388,A61,1-4 years,4,A92,A101,2,A121,26,A143,A151,1,A173,1,A191,A201,1,26-35
+0-200 DM,36,existing paid,repairs,2384,A61,<1 year,4,A93,A101,1,A124,33,A143,A151,1,A172,1,A191,A201,0,26-35
+no account,12,existing paid,car (new),2133,A65,>=7 years,4,A92,A101,4,A124,52,A143,A153,1,A174,1,A192,A201,1,46-55
+<0 DM,18,existing paid,furniture/equipment,2039,A61,1-4 years,1,A92,A101,4,A121,20,A141,A151,1,A173,1,A191,A201,0,18-25
+<0 DM,9,critical/other,car (new),2799,A61,1-4 years,2,A93,A101,2,A121,36,A143,A151,2,A173,2,A191,A201,1,36-45
+<0 DM,12,existing paid,furniture/equipment,1289,A61,1-4 years,4,A93,A103,1,A122,21,A143,A152,1,A172,1,A191,A201,1,18-25
+<0 DM,18,existing paid,domestic appliances,1217,A61,1-4 years,4,A94,A101,3,A121,47,A143,A152,1,A172,1,A192,A201,0,46-55
+<0 DM,12,critical/other,furniture/equipment,2246,A61,>=7 years,3,A93,A101,3,A122,60,A143,A152,2,A173,1,A191,A201,0,56-65
+<0 DM,12,critical/other,radio/TV,385,A61,4-7 years,4,A92,A101,3,A121,58,A143,A152,4,A172,1,A192,A201,1,56-65
+0-200 DM,24,delay paid,car (new),1965,A65,1-4 years,4,A92,A101,4,A123,42,A143,A151,2,A173,1,A192,A201,1,36-45
+no account,21,existing paid,business,1572,A64,>=7 years,4,A92,A101,4,A121,36,A141,A152,1,A172,1,A191,A201,1,36-45
+0-200 DM,24,existing paid,car (new),2718,A61,1-4 years,3,A92,A101,4,A122,20,A143,A151,1,A172,1,A192,A201,0,18-25
+<0 DM,24,all paid,others,1358,A65,>=7 years,4,A93,A101,3,A123,40,A142,A152,1,A174,1,A192,A201,0,36-45
+0-200 DM,6,all paid,car (new),931,A62,<1 year,1,A92,A101,1,A122,32,A142,A152,1,A172,1,A191,A201,0,26-35
+<0 DM,24,existing paid,car (new),1442,A61,4-7 years,4,A92,A101,4,A123,23,A143,A151,2,A173,1,A191,A201,0,18-25
+0-200 DM,24,no credits/all paid,business,4241,A61,1-4 years,1,A93,A101,4,A121,36,A143,A152,3,A172,1,A192,A201,0,36-45
+no account,18,critical/other,car (new),2775,A61,4-7 years,2,A93,A101,2,A122,31,A141,A152,2,A173,1,A191,A201,0,26-35
+no account,24,delay paid,business,3863,A61,1-4 years,1,A93,A101,2,A124,32,A143,A153,1,A173,1,A191,A201,1,26-35
+0-200 DM,7,existing paid,radio/TV,2329,A61,<1 year,1,A92,A103,1,A121,45,A143,A152,1,A173,1,A191,A201,1,36-45
+0-200 DM,9,existing paid,furniture/equipment,918,A61,1-4 years,4,A92,A101,1,A122,30,A143,A152,1,A173,1,A191,A201,0,26-35
+0-200 DM,24,all paid,education,1837,A61,4-7 years,4,A92,A101,4,A124,34,A141,A153,1,A172,1,A191,A201,0,26-35
+no account,36,existing paid,furniture/equipment,3349,A61,1-4 years,4,A92,A101,2,A123,28,A143,A152,1,A174,1,A192,A201,0,26-35
+>=200 DM,10,existing paid,furniture/equipment,1275,A61,<1 year,4,A92,A101,2,A122,23,A143,A152,1,A173,1,A191,A201,1,18-25
+<0 DM,24,all paid,furniture/equipment,2828,A63,1-4 years,4,A93,A101,4,A121,22,A142,A152,1,A173,1,A192,A201,1,18-25
+no account,24,critical/other,business,4526,A61,1-4 years,3,A93,A101,2,A121,74,A143,A152,1,A174,1,A192,A201,1,66+
+0-200 DM,36,existing paid,radio/TV,2671,A62,1-4 years,4,A92,A102,4,A124,50,A143,A153,1,A173,1,A191,A201,0,46-55
+no account,18,existing paid,radio/TV,2051,A61,<1 year,4,A93,A101,1,A121,33,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,15,existing paid,car (used),1300,A65,>=7 years,4,A93,A101,4,A124,45,A141,A153,1,A173,2,A191,A201,1,36-45
+<0 DM,12,existing paid,domestic appliances,741,A62,unemployed,4,A92,A101,3,A122,22,A143,A152,1,A173,1,A191,A201,0,18-25
+>=200 DM,10,existing paid,car (new),1240,A62,>=7 years,1,A92,A101,4,A124,48,A143,A153,1,A172,2,A191,A201,0,46-55
+<0 DM,21,existing paid,radio/TV,3357,A64,<1 year,4,A92,A101,2,A123,29,A141,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,24,all paid,car (used),3632,A61,1-4 years,1,A92,A103,4,A123,22,A141,A151,1,A173,1,A191,A202,1,18-25
+no account,18,delay paid,furniture/equipment,1808,A61,4-7 years,4,A92,A101,1,A121,22,A143,A152,1,A173,1,A191,A201,0,18-25
+0-200 DM,48,no credits/all paid,business,12204,A65,1-4 years,2,A93,A101,2,A123,48,A141,A152,1,A174,1,A192,A201,1,46-55
+0-200 DM,60,delay paid,radio/TV,9157,A65,1-4 years,2,A93,A101,2,A124,27,A143,A153,1,A174,1,A191,A201,1,26-35
+<0 DM,6,critical/other,car (new),3676,A61,1-4 years,1,A93,A101,3,A121,37,A143,A151,3,A173,2,A191,A201,1,36-45
+0-200 DM,30,existing paid,furniture/equipment,3441,A62,1-4 years,2,A92,A102,4,A123,21,A143,A151,1,A173,1,A191,A201,0,18-25
+no account,12,existing paid,car (new),640,A61,1-4 years,4,A91,A101,2,A121,49,A143,A152,1,A172,1,A191,A201,1,46-55
+0-200 DM,21,critical/other,business,3652,A61,4-7 years,2,A93,A101,3,A122,27,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,18,critical/other,car (new),1530,A61,1-4 years,3,A93,A101,2,A122,32,A141,A152,2,A173,1,A191,A201,0,26-35
+no account,48,existing paid,business,3914,A65,1-4 years,4,A91,A101,2,A121,38,A141,A152,1,A173,1,A191,A201,0,36-45
+<0 DM,12,existing paid,furniture/equipment,1858,A61,<1 year,4,A92,A101,1,A123,22,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,18,existing paid,radio/TV,2600,A61,1-4 years,4,A93,A101,4,A124,65,A143,A153,2,A173,1,A191,A201,0,56-65
+no account,15,existing paid,radio/TV,1979,A65,>=7 years,4,A93,A101,2,A123,35,A143,A152,1,A173,1,A191,A201,1,26-35
+>=200 DM,6,existing paid,furniture/equipment,2116,A61,1-4 years,2,A93,A101,2,A121,41,A143,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,9,all paid,car (new),1437,A62,4-7 years,2,A93,A101,3,A124,29,A143,A152,1,A173,1,A191,A201,0,26-35
+no account,42,critical/other,furniture/equipment,4042,A63,1-4 years,4,A93,A101,4,A121,36,A143,A152,2,A173,1,A192,A201,1,36-45
+no account,9,existing paid,education,3832,A65,>=7 years,1,A93,A101,4,A121,64,A143,A152,1,A172,1,A191,A201,1,56-65
+<0 DM,24,existing paid,radio/TV,3660,A61,1-4 years,2,A92,A101,4,A123,28,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,18,all paid,furniture/equipment,1553,A61,1-4 years,4,A93,A101,3,A123,44,A141,A152,1,A173,1,A191,A201,0,36-45
+0-200 DM,15,existing paid,radio/TV,1444,A65,<1 year,4,A93,A101,1,A122,23,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,9,existing paid,furniture/equipment,1980,A61,<1 year,2,A92,A102,2,A123,19,A143,A151,2,A173,1,A191,A201,0,18-25
+0-200 DM,24,existing paid,car (new),1355,A61,<1 year,3,A92,A101,4,A123,25,A143,A152,1,A172,1,A192,A201,0,18-25
+no account,12,existing paid,education,1393,A61,>=7 years,4,A93,A101,4,A122,47,A141,A152,3,A173,2,A192,A201,1,46-55
+no account,24,existing paid,radio/TV,1376,A63,4-7 years,4,A92,A101,1,A123,28,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,60,delay paid,radio/TV,15653,A61,4-7 years,2,A93,A101,4,A123,21,A143,A152,2,A173,1,A192,A201,1,18-25
+no account,12,existing paid,radio/TV,1493,A61,<1 year,4,A92,A101,3,A123,34,A143,A152,1,A173,2,A191,A201,1,26-35
+<0 DM,42,delay paid,radio/TV,4370,A61,4-7 years,3,A93,A101,2,A122,26,A141,A152,2,A173,2,A192,A201,0,26-35
+<0 DM,18,existing paid,education,750,A61,unemployed,4,A92,A101,1,A121,27,A143,A152,1,A171,1,A191,A201,0,26-35
+0-200 DM,15,existing paid,repairs,1308,A61,>=7 years,4,A93,A101,4,A123,38,A143,A152,2,A172,1,A191,A201,1,36-45
+no account,15,existing paid,education,4623,A62,1-4 years,3,A93,A101,2,A122,40,A143,A152,1,A174,1,A192,A201,0,36-45
+no account,24,critical/other,radio/TV,1851,A61,4-7 years,4,A94,A103,2,A123,33,A143,A152,2,A173,1,A192,A201,1,26-35
+<0 DM,18,critical/other,radio/TV,1880,A61,4-7 years,4,A94,A101,1,A122,32,A143,A152,2,A174,1,A192,A201,1,26-35
+no account,36,delay paid,business,7980,A65,<1 year,4,A93,A101,4,A123,27,A143,A151,2,A173,1,A192,A201,0,26-35
+<0 DM,30,no credits/all paid,furniture/equipment,4583,A61,1-4 years,2,A91,A103,2,A121,32,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,12,existing paid,car (new),1386,A63,1-4 years,2,A92,A101,2,A122,26,A143,A152,1,A173,1,A191,A201,0,26-35
+>=200 DM,24,existing paid,car (new),947,A61,4-7 years,4,A93,A101,3,A124,38,A141,A153,1,A173,2,A191,A201,0,36-45
+<0 DM,12,existing paid,education,684,A61,1-4 years,4,A93,A101,4,A123,40,A143,A151,1,A172,2,A191,A201,0,36-45
+<0 DM,48,existing paid,education,7476,A61,4-7 years,4,A93,A101,1,A124,50,A143,A153,1,A174,1,A192,A201,1,46-55
+0-200 DM,12,existing paid,furniture/equipment,1922,A61,1-4 years,4,A93,A101,2,A122,37,A143,A152,1,A172,1,A191,A201,0,36-45
+<0 DM,24,existing paid,car (new),2303,A61,>=7 years,4,A93,A102,1,A121,45,A143,A152,1,A173,1,A191,A201,0,36-45
+0-200 DM,36,delay paid,car (new),8086,A62,>=7 years,2,A93,A101,4,A123,42,A143,A152,4,A174,1,A192,A201,0,36-45
+no account,24,critical/other,car (used),2346,A61,4-7 years,4,A93,A101,3,A123,35,A143,A152,2,A173,1,A192,A201,1,26-35
+<0 DM,14,existing paid,car (new),3973,A61,unemployed,1,A93,A101,4,A124,22,A143,A153,1,A173,1,A191,A201,1,18-25
+0-200 DM,12,existing paid,car (new),888,A61,>=7 years,4,A93,A101,4,A123,41,A141,A152,1,A172,2,A191,A201,0,36-45
+no account,48,existing paid,radio/TV,10222,A65,4-7 years,4,A93,A101,3,A123,37,A142,A152,1,A173,1,A192,A201,1,36-45
+0-200 DM,30,no credits/all paid,business,4221,A61,1-4 years,2,A92,A101,1,A123,28,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,18,critical/other,furniture/equipment,6361,A61,>=7 years,2,A93,A101,1,A124,41,A143,A152,1,A173,1,A192,A201,1,36-45
+>=200 DM,12,existing paid,radio/TV,1297,A61,1-4 years,3,A94,A101,4,A121,23,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,12,existing paid,car (new),900,A65,1-4 years,4,A94,A101,2,A123,23,A143,A152,1,A173,1,A191,A201,0,18-25
+no account,21,existing paid,furniture/equipment,2241,A61,>=7 years,4,A93,A101,2,A121,50,A143,A152,2,A173,1,A191,A201,1,46-55
+0-200 DM,6,delay paid,furniture/equipment,1050,A61,unemployed,4,A93,A101,1,A122,35,A142,A152,2,A174,1,A192,A201,1,26-35
+>=200 DM,6,critical/other,education,1047,A61,1-4 years,2,A92,A101,4,A122,50,A143,A152,1,A172,1,A191,A201,1,46-55
+no account,24,critical/other,others,6314,A61,unemployed,4,A93,A102,2,A124,27,A141,A152,2,A174,1,A192,A201,1,26-35
+0-200 DM,30,all paid,furniture/equipment,3496,A64,1-4 years,4,A93,A101,2,A123,34,A142,A152,1,A173,2,A192,A201,1,26-35
+no account,48,all paid,business,3609,A61,1-4 years,1,A92,A101,1,A121,27,A142,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,12,critical/other,car (new),4843,A61,>=7 years,3,A93,A102,4,A122,43,A143,A151,2,A173,1,A192,A201,0,36-45
+>=200 DM,30,critical/other,radio/TV,3017,A61,>=7 years,4,A93,A101,4,A122,47,A143,A152,1,A173,1,A191,A201,1,46-55
+no account,24,critical/other,business,4139,A62,1-4 years,3,A93,A101,3,A122,27,A143,A152,2,A172,1,A192,A201,1,26-35
+no account,36,existing paid,business,5742,A62,4-7 years,2,A93,A101,2,A123,31,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,60,existing paid,car (new),10366,A61,>=7 years,2,A93,A101,4,A122,42,A143,A152,1,A174,1,A192,A201,1,36-45
+no account,6,critical/other,car (new),2080,A63,1-4 years,1,A94,A101,2,A123,24,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,21,delay paid,business,2580,A63,<1 year,4,A93,A101,2,A121,41,A141,A152,1,A172,2,A191,A201,0,36-45
+no account,30,critical/other,radio/TV,4530,A61,4-7 years,4,A92,A101,4,A123,26,A143,A151,1,A174,1,A192,A201,1,26-35
+no account,24,critical/other,furniture/equipment,5150,A61,>=7 years,4,A93,A101,4,A123,33,A143,A152,1,A173,1,A192,A201,1,26-35
+0-200 DM,72,existing paid,radio/TV,5595,A62,1-4 years,2,A94,A101,2,A123,24,A143,A152,1,A173,1,A191,A201,0,18-25
+<0 DM,24,existing paid,radio/TV,2384,A61,>=7 years,4,A93,A101,4,A121,64,A141,A151,1,A172,1,A191,A201,1,56-65
+no account,18,existing paid,radio/TV,1453,A61,<1 year,3,A92,A101,1,A121,26,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,6,existing paid,education,1538,A61,<1 year,1,A92,A101,2,A124,56,A143,A152,1,A173,1,A191,A201,1,56-65
+no account,12,existing paid,radio/TV,2279,A65,1-4 years,4,A93,A101,4,A124,37,A143,A153,1,A173,1,A192,A201,1,36-45
+no account,15,delay paid,radio/TV,1478,A61,1-4 years,4,A94,A101,3,A121,33,A141,A152,2,A173,1,A191,A201,1,26-35
+no account,24,critical/other,radio/TV,5103,A61,<1 year,3,A94,A101,3,A124,47,A143,A153,3,A173,1,A192,A201,1,46-55
+0-200 DM,36,delay paid,business,9857,A62,4-7 years,1,A93,A101,3,A122,31,A143,A152,2,A172,2,A192,A201,1,26-35
+no account,60,existing paid,car (new),6527,A65,1-4 years,4,A93,A101,4,A124,34,A143,A153,1,A173,2,A192,A201,1,26-35
+>=200 DM,10,critical/other,radio/TV,1347,A65,4-7 years,4,A93,A101,2,A122,27,A143,A152,2,A173,1,A192,A201,1,26-35
+0-200 DM,36,delay paid,car (new),2862,A62,>=7 years,4,A93,A101,3,A124,30,A143,A153,1,A173,1,A191,A201,1,26-35
+no account,9,existing paid,radio/TV,2753,A62,>=7 years,3,A93,A102,4,A123,35,A143,A152,1,A173,1,A192,A201,1,26-35
+<0 DM,12,existing paid,car (new),3651,A64,1-4 years,1,A93,A101,3,A122,31,A143,A152,1,A173,2,A191,A201,1,26-35
+<0 DM,15,critical/other,furniture/equipment,975,A61,1-4 years,2,A91,A101,3,A122,25,A143,A152,2,A173,1,A191,A201,1,18-25
+0-200 DM,15,existing paid,repairs,2631,A62,1-4 years,3,A92,A101,2,A121,25,A143,A152,1,A172,1,A191,A201,1,18-25
+0-200 DM,24,existing paid,radio/TV,2896,A62,<1 year,2,A93,A101,1,A123,29,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,6,critical/other,car (new),4716,A65,<1 year,1,A93,A101,3,A121,44,A143,A152,2,A172,2,A191,A201,1,36-45
+no account,24,existing paid,radio/TV,2284,A61,4-7 years,4,A93,A101,2,A123,28,A143,A152,1,A173,1,A192,A201,1,26-35
+no account,6,existing paid,car (used),1236,A63,1-4 years,2,A93,A101,4,A122,50,A143,A151,1,A173,1,A191,A201,1,46-55
+0-200 DM,12,existing paid,radio/TV,1103,A61,4-7 years,4,A93,A103,3,A121,29,A143,A152,2,A173,1,A191,A202,1,26-35
+no account,12,critical/other,car (new),926,A61,unemployed,1,A92,A101,2,A122,38,A143,A152,1,A171,1,A191,A201,1,36-45
+no account,18,critical/other,radio/TV,1800,A61,1-4 years,4,A93,A101,2,A123,24,A143,A152,2,A173,1,A191,A201,1,18-25
+>=200 DM,15,existing paid,education,1905,A61,>=7 years,4,A93,A101,4,A123,40,A143,A151,1,A174,1,A192,A201,1,36-45
+no account,12,existing paid,furniture/equipment,1123,A63,1-4 years,4,A92,A101,4,A123,29,A143,A151,1,A172,1,A191,A201,0,26-35
+<0 DM,48,critical/other,car (used),6331,A61,>=7 years,4,A93,A101,4,A124,46,A143,A153,2,A173,1,A192,A201,0,46-55
+>=200 DM,24,existing paid,radio/TV,1377,A62,>=7 years,4,A92,A101,2,A124,47,A143,A153,1,A173,1,A192,A201,1,46-55
+0-200 DM,30,delay paid,business,2503,A62,>=7 years,4,A93,A101,2,A122,41,A142,A152,2,A173,1,A191,A201,1,36-45
+0-200 DM,27,existing paid,business,2528,A61,<1 year,4,A92,A101,1,A122,32,A143,A152,1,A173,2,A192,A201,1,26-35
+no account,15,existing paid,car (new),5324,A63,>=7 years,1,A92,A101,4,A124,35,A143,A153,1,A173,1,A191,A201,1,26-35
+0-200 DM,48,existing paid,car (new),6560,A62,4-7 years,3,A93,A101,2,A122,24,A143,A152,1,A173,1,A191,A201,0,18-25
+0-200 DM,12,no credits/all paid,furniture/equipment,2969,A61,<1 year,4,A92,A101,3,A122,25,A143,A151,2,A173,1,A191,A201,0,18-25
+0-200 DM,9,existing paid,radio/TV,1206,A61,>=7 years,4,A92,A101,4,A121,25,A143,A152,1,A173,1,A191,A201,1,18-25
+0-200 DM,9,existing paid,radio/TV,2118,A61,1-4 years,2,A93,A101,2,A121,37,A143,A152,1,A172,2,A191,A201,1,36-45
+no account,18,critical/other,radio/TV,629,A63,>=7 years,4,A93,A101,3,A122,32,A141,A152,2,A174,1,A192,A201,1,26-35
+<0 DM,6,all paid,education,1198,A61,>=7 years,4,A92,A101,4,A124,35,A143,A153,1,A173,1,A191,A201,0,26-35
+no account,21,existing paid,car (used),2476,A65,>=7 years,4,A93,A101,4,A121,46,A143,A152,1,A174,1,A192,A201,1,46-55
+<0 DM,9,critical/other,radio/TV,1138,A61,1-4 years,4,A93,A101,4,A121,25,A143,A152,2,A172,1,A191,A201,1,18-25
+0-200 DM,60,existing paid,car (new),14027,A61,4-7 years,4,A93,A101,2,A124,27,A143,A152,1,A174,1,A192,A201,0,26-35
+no account,30,critical/other,car (used),7596,A65,>=7 years,1,A93,A101,4,A123,63,A143,A152,2,A173,1,A191,A201,1,56-65
+no account,30,critical/other,radio/TV,3077,A65,>=7 years,3,A93,A101,2,A123,40,A143,A152,2,A173,2,A192,A201,1,36-45
+no account,18,existing paid,radio/TV,1505,A61,1-4 years,4,A93,A101,2,A124,32,A143,A153,1,A174,1,A192,A201,1,26-35
+>=200 DM,24,critical/other,radio/TV,3148,A65,1-4 years,3,A93,A101,2,A123,31,A143,A152,2,A173,1,A192,A201,1,26-35
+0-200 DM,20,no credits/all paid,car (used),6148,A62,>=7 years,3,A94,A101,4,A123,31,A141,A152,2,A173,1,A192,A201,1,26-35
+>=200 DM,9,no credits/all paid,radio/TV,1337,A61,<1 year,4,A93,A101,2,A123,34,A143,A152,2,A174,1,A192,A201,0,26-35
+0-200 DM,6,all paid,education,433,A64,<1 year,4,A92,A101,2,A122,24,A141,A151,1,A173,2,A191,A201,0,18-25
+<0 DM,12,existing paid,car (new),1228,A61,1-4 years,4,A92,A101,2,A121,24,A143,A152,1,A172,1,A191,A201,0,18-25
+0-200 DM,9,existing paid,radio/TV,790,A63,1-4 years,4,A92,A101,3,A121,66,A143,A152,1,A172,1,A191,A201,1,66+
+no account,27,existing paid,car (new),2570,A61,1-4 years,3,A92,A101,3,A121,21,A143,A151,1,A173,1,A191,A201,0,18-25
+no account,6,critical/other,car (new),250,A64,1-4 years,2,A92,A101,2,A121,41,A141,A152,2,A172,1,A191,A201,1,36-45
+no account,15,critical/other,radio/TV,1316,A63,1-4 years,2,A94,A101,2,A122,47,A143,A152,2,A172,1,A191,A201,1,46-55
+<0 DM,18,existing paid,radio/TV,1882,A61,1-4 years,4,A92,A101,4,A123,25,A141,A151,2,A173,1,A191,A201,0,18-25
+0-200 DM,48,all paid,business,6416,A61,>=7 years,4,A92,A101,3,A124,59,A143,A151,1,A173,1,A191,A201,0,56-65
+>=200 DM,24,critical/other,business,1275,A64,1-4 years,2,A91,A101,4,A121,36,A143,A152,2,A173,1,A192,A201,1,36-45
+0-200 DM,24,delay paid,radio/TV,6403,A61,<1 year,1,A93,A101,2,A123,33,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,24,existing paid,radio/TV,1987,A61,1-4 years,2,A93,A101,4,A121,21,A143,A151,1,A172,2,A191,A201,0,18-25
+0-200 DM,8,existing paid,radio/TV,760,A61,4-7 years,4,A92,A103,2,A121,44,A143,A152,1,A172,1,A191,A201,1,36-45
+no account,24,existing paid,car (used),2603,A64,1-4 years,2,A92,A101,4,A123,28,A143,A151,1,A173,1,A192,A201,1,26-35
+no account,4,critical/other,car (new),3380,A61,4-7 years,1,A92,A101,1,A121,37,A143,A152,1,A173,2,A191,A201,1,36-45
+0-200 DM,36,all paid,domestic appliances,3990,A65,<1 year,3,A92,A101,2,A124,29,A141,A152,1,A171,1,A191,A201,1,26-35
+0-200 DM,24,existing paid,car (used),11560,A61,1-4 years,1,A92,A101,4,A123,23,A143,A151,2,A174,1,A191,A201,0,18-25
+<0 DM,18,existing paid,car (new),4380,A62,1-4 years,3,A93,A101,4,A123,35,A143,A152,1,A172,2,A192,A201,1,26-35
+no account,6,critical/other,car (new),6761,A61,4-7 years,1,A93,A101,3,A124,45,A143,A152,2,A174,2,A192,A201,1,36-45
+0-200 DM,30,no credits/all paid,business,4280,A62,1-4 years,4,A92,A101,4,A123,26,A143,A151,2,A172,1,A191,A201,0,26-35
+<0 DM,24,all paid,car (new),2325,A62,4-7 years,2,A93,A101,3,A123,32,A141,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,10,all paid,radio/TV,1048,A61,1-4 years,4,A93,A101,4,A121,23,A142,A152,1,A172,1,A191,A201,1,18-25
+no account,21,existing paid,radio/TV,3160,A65,>=7 years,4,A93,A101,3,A122,41,A143,A152,1,A173,1,A192,A201,1,36-45
+<0 DM,24,all paid,furniture/equipment,2483,A63,1-4 years,4,A93,A101,4,A121,22,A142,A152,1,A173,1,A192,A201,1,18-25
+<0 DM,39,critical/other,furniture/equipment,14179,A65,4-7 years,4,A93,A101,4,A122,30,A143,A152,2,A174,1,A192,A201,1,26-35
+<0 DM,13,critical/other,business,1797,A61,<1 year,3,A93,A101,1,A122,28,A141,A152,2,A172,1,A191,A201,1,26-35
+<0 DM,15,existing paid,car (new),2511,A61,unemployed,1,A92,A101,4,A123,23,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,12,existing paid,car (new),1274,A61,<1 year,3,A92,A101,1,A121,37,A143,A152,1,A172,1,A191,A201,0,36-45
+no account,21,existing paid,car (used),5248,A65,1-4 years,1,A93,A101,3,A123,26,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,15,existing paid,car (used),3029,A61,4-7 years,2,A93,A101,2,A123,33,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,6,existing paid,furniture/equipment,428,A61,>=7 years,2,A92,A101,1,A122,49,A141,A152,1,A173,1,A192,A201,1,46-55
+<0 DM,18,existing paid,car (new),976,A61,<1 year,1,A92,A101,2,A123,23,A143,A152,1,A172,1,A191,A201,0,18-25
+0-200 DM,12,existing paid,business,841,A62,4-7 years,2,A92,A101,4,A121,23,A143,A151,1,A172,1,A191,A201,1,18-25
+no account,30,critical/other,radio/TV,5771,A61,4-7 years,4,A92,A101,2,A123,25,A143,A152,2,A173,1,A191,A201,1,18-25
+no account,12,delay paid,repairs,1555,A64,>=7 years,4,A93,A101,4,A124,55,A143,A153,2,A173,2,A191,A201,0,46-55
+<0 DM,24,existing paid,car (new),1285,A65,4-7 years,4,A92,A101,4,A124,32,A143,A151,1,A173,1,A191,A201,0,26-35
+>=200 DM,6,critical/other,car (new),1299,A61,1-4 years,1,A93,A101,1,A121,74,A143,A152,3,A171,2,A191,A202,1,66+
+>=200 DM,15,critical/other,radio/TV,1271,A65,1-4 years,3,A93,A101,4,A124,39,A143,A153,2,A173,1,A192,A201,0,36-45
+no account,24,existing paid,car (new),1393,A61,1-4 years,2,A93,A103,2,A121,31,A143,A152,1,A173,1,A192,A201,1,26-35
+<0 DM,12,critical/other,car (new),691,A61,>=7 years,4,A93,A101,3,A122,35,A143,A152,2,A173,1,A191,A201,0,26-35
+no account,15,critical/other,car (new),5045,A65,>=7 years,1,A92,A101,4,A123,59,A143,A152,1,A173,1,A192,A201,1,56-65
+<0 DM,18,critical/other,furniture/equipment,2124,A61,1-4 years,4,A92,A101,4,A121,24,A143,A151,2,A173,1,A191,A201,0,18-25
+<0 DM,12,existing paid,radio/TV,2214,A61,1-4 years,4,A93,A101,3,A122,24,A143,A152,1,A172,1,A191,A201,1,18-25
+no account,21,critical/other,car (new),12680,A65,>=7 years,4,A93,A101,4,A124,30,A143,A153,1,A174,1,A192,A201,0,26-35
+no account,24,critical/other,car (new),2463,A62,4-7 years,4,A94,A101,3,A122,27,A143,A152,2,A173,1,A192,A201,1,26-35
+0-200 DM,12,existing paid,radio/TV,1155,A61,>=7 years,3,A94,A103,3,A121,40,A141,A152,2,A172,1,A191,A201,1,36-45
+<0 DM,30,existing paid,furniture/equipment,3108,A61,<1 year,2,A91,A101,4,A122,31,A143,A152,1,A172,1,A191,A201,0,26-35
+no account,10,existing paid,car (used),2901,A65,<1 year,1,A92,A101,4,A121,31,A143,A151,1,A173,1,A191,A201,1,26-35
+0-200 DM,12,critical/other,furniture/equipment,3617,A61,>=7 years,1,A93,A101,4,A123,28,A143,A151,3,A173,1,A192,A201,1,26-35
+no account,12,critical/other,radio/TV,1655,A61,>=7 years,2,A93,A101,4,A121,63,A143,A152,2,A172,1,A192,A201,1,56-65
+<0 DM,24,existing paid,car (used),2812,A65,>=7 years,2,A92,A101,4,A121,26,A143,A151,1,A173,1,A191,A201,1,26-35
+<0 DM,36,critical/other,education,8065,A61,1-4 years,3,A92,A101,2,A124,25,A143,A152,2,A174,1,A192,A201,0,18-25
+no account,21,critical/other,car (used),3275,A61,>=7 years,1,A93,A101,4,A123,36,A143,A152,1,A174,1,A192,A201,1,36-45
+no account,24,critical/other,radio/TV,2223,A62,>=7 years,4,A93,A101,4,A122,52,A141,A152,2,A173,1,A191,A201,1,46-55
+>=200 DM,12,critical/other,car (new),1480,A63,unemployed,2,A93,A101,4,A124,66,A141,A153,3,A171,1,A191,A201,1,66+
+<0 DM,24,existing paid,car (new),1371,A65,1-4 years,4,A92,A101,4,A121,25,A143,A151,1,A173,1,A191,A201,0,18-25
+no account,36,critical/other,car (new),3535,A61,4-7 years,4,A93,A101,4,A123,37,A143,A152,2,A173,1,A192,A201,1,36-45
+<0 DM,18,existing paid,radio/TV,3509,A61,4-7 years,4,A92,A103,1,A121,25,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,36,critical/other,car (used),5711,A64,>=7 years,4,A93,A101,2,A123,38,A143,A152,2,A174,1,A192,A201,1,36-45
+0-200 DM,18,existing paid,repairs,3872,A61,unemployed,2,A92,A101,4,A123,67,A143,A152,1,A173,1,A192,A201,1,66+
+0-200 DM,39,critical/other,radio/TV,4933,A61,4-7 years,2,A93,A103,2,A121,25,A143,A152,2,A173,1,A191,A201,0,18-25
+no account,24,critical/other,car (new),1940,A64,>=7 years,4,A93,A101,4,A121,60,A143,A152,1,A173,1,A192,A201,1,56-65
+0-200 DM,12,no credits/all paid,retraining,1410,A61,1-4 years,2,A93,A101,2,A121,31,A143,A152,1,A172,1,A192,A201,1,26-35
+0-200 DM,12,existing paid,car (new),836,A62,<1 year,4,A92,A101,2,A122,23,A141,A152,1,A172,1,A191,A201,0,18-25
+0-200 DM,20,existing paid,car (used),6468,A65,unemployed,1,A91,A101,4,A121,60,A143,A152,1,A174,1,A192,A201,1,56-65
+0-200 DM,18,existing paid,business,1941,A64,1-4 years,4,A93,A101,2,A122,35,A143,A152,1,A172,1,A192,A201,1,26-35
+no account,22,existing paid,radio/TV,2675,A63,>=7 years,3,A93,A101,4,A123,40,A143,A152,1,A173,1,A191,A201,1,36-45
+no account,48,critical/other,car (used),2751,A65,>=7 years,4,A93,A101,3,A123,38,A143,A152,2,A173,2,A192,A201,1,36-45
+0-200 DM,48,delay paid,education,6224,A61,>=7 years,4,A93,A101,4,A124,50,A143,A153,1,A173,1,A191,A201,0,46-55
+<0 DM,40,critical/other,education,5998,A61,1-4 years,4,A93,A101,3,A124,27,A141,A152,1,A173,1,A192,A201,0,26-35
+0-200 DM,21,existing paid,business,1188,A61,>=7 years,2,A92,A101,4,A122,39,A143,A152,1,A173,2,A191,A201,0,36-45
+no account,24,existing paid,car (used),6313,A65,>=7 years,3,A93,A101,4,A123,41,A143,A152,1,A174,2,A192,A201,1,36-45
+no account,6,critical/other,furniture/equipment,1221,A65,1-4 years,1,A94,A101,2,A122,27,A143,A152,2,A173,1,A191,A201,1,26-35
+>=200 DM,24,existing paid,furniture/equipment,2892,A61,>=7 years,3,A91,A101,4,A124,51,A143,A153,1,A173,1,A191,A201,1,46-55
+no account,24,existing paid,furniture/equipment,3062,A63,>=7 years,4,A93,A101,3,A124,32,A143,A151,1,A173,1,A192,A201,1,26-35
+no account,9,existing paid,furniture/equipment,2301,A62,<1 year,2,A92,A101,4,A122,22,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,18,existing paid,car (used),7511,A65,>=7 years,1,A93,A101,4,A122,51,A143,A153,1,A173,2,A192,A201,0,46-55
+no account,12,critical/other,furniture/equipment,1258,A61,<1 year,2,A92,A101,4,A122,22,A143,A151,2,A172,1,A191,A201,1,18-25
+no account,24,delay paid,car (new),717,A65,>=7 years,4,A94,A101,4,A123,54,A143,A152,2,A173,1,A192,A201,1,46-55
+0-200 DM,9,existing paid,car (new),1549,A65,<1 year,4,A93,A101,2,A121,35,A143,A152,1,A171,1,A191,A201,1,26-35
+no account,24,critical/other,education,1597,A61,>=7 years,4,A93,A101,4,A124,54,A143,A153,2,A173,2,A191,A201,1,46-55
+0-200 DM,18,critical/other,radio/TV,1795,A61,>=7 years,3,A92,A103,4,A121,48,A141,A151,2,A172,1,A192,A201,1,46-55
+<0 DM,20,critical/other,furniture/equipment,4272,A61,>=7 years,1,A92,A101,4,A122,24,A143,A152,2,A173,1,A191,A201,1,18-25
+no account,12,critical/other,radio/TV,976,A65,>=7 years,4,A93,A101,4,A123,35,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,12,existing paid,car (new),7472,A65,unemployed,1,A92,A101,2,A121,24,A143,A151,1,A171,1,A191,A201,1,18-25
+<0 DM,36,existing paid,car (new),9271,A61,4-7 years,2,A93,A101,1,A123,24,A143,A152,1,A173,1,A192,A201,0,18-25
+0-200 DM,6,existing paid,radio/TV,590,A61,<1 year,3,A94,A101,3,A121,26,A143,A152,1,A172,1,A191,A202,1,26-35
+no account,12,critical/other,radio/TV,930,A65,>=7 years,4,A93,A101,4,A121,65,A143,A152,4,A173,1,A191,A201,1,56-65
+0-200 DM,42,all paid,car (used),9283,A61,unemployed,1,A93,A101,2,A124,55,A141,A153,1,A174,1,A192,A201,1,46-55
+0-200 DM,15,no credits/all paid,car (new),1778,A61,<1 year,2,A92,A101,1,A121,26,A143,A151,2,A171,1,A191,A201,0,26-35
+0-200 DM,8,existing paid,business,907,A61,<1 year,3,A94,A101,2,A121,26,A143,A152,1,A173,1,A192,A201,1,26-35
+0-200 DM,6,existing paid,radio/TV,484,A61,4-7 years,3,A94,A103,3,A121,28,A141,A152,1,A172,1,A191,A201,1,26-35
+<0 DM,36,critical/other,car (used),9629,A61,4-7 years,4,A93,A101,4,A123,24,A143,A152,2,A173,1,A192,A201,0,18-25
+<0 DM,48,existing paid,domestic appliances,3051,A61,1-4 years,3,A93,A101,4,A123,54,A143,A152,1,A173,1,A191,A201,0,46-55
+<0 DM,48,existing paid,car (new),3931,A61,4-7 years,4,A93,A101,4,A124,46,A143,A153,1,A173,2,A191,A201,0,46-55
+0-200 DM,36,delay paid,car (new),7432,A61,1-4 years,2,A92,A101,2,A122,54,A143,A151,1,A173,1,A191,A201,1,46-55
+no account,6,existing paid,domestic appliances,1338,A63,1-4 years,1,A91,A101,4,A121,62,A143,A152,1,A173,1,A191,A201,1,56-65
+no account,6,critical/other,radio/TV,1554,A61,4-7 years,1,A92,A101,2,A123,24,A143,A151,2,A173,1,A192,A201,1,18-25
+<0 DM,36,existing paid,others,15857,A61,unemployed,2,A91,A102,3,A123,43,A143,A152,1,A174,1,A191,A201,1,36-45
+<0 DM,18,existing paid,radio/TV,1345,A61,1-4 years,4,A94,A101,3,A121,26,A141,A152,1,A173,1,A191,A201,0,26-35
+no account,12,existing paid,car (new),1101,A61,1-4 years,3,A94,A101,2,A121,27,A143,A152,2,A173,1,A192,A201,1,26-35
+>=200 DM,12,existing paid,radio/TV,3016,A61,1-4 years,3,A94,A101,1,A123,24,A143,A152,1,A173,1,A191,A201,1,18-25
+<0 DM,36,existing paid,furniture/equipment,2712,A61,>=7 years,2,A93,A101,2,A122,41,A141,A152,1,A173,2,A191,A201,0,36-45
+<0 DM,8,critical/other,car (new),731,A61,>=7 years,4,A93,A101,4,A121,47,A143,A152,2,A172,1,A191,A201,1,46-55
+no account,18,critical/other,furniture/equipment,3780,A61,<1 year,3,A91,A101,2,A123,35,A143,A152,2,A174,1,A192,A201,1,26-35
+<0 DM,21,critical/other,car (new),1602,A61,>=7 years,4,A94,A101,3,A123,30,A143,A152,2,A173,1,A192,A201,1,26-35
+<0 DM,18,critical/other,car (new),3966,A61,>=7 years,1,A92,A101,4,A121,33,A141,A151,3,A173,1,A192,A201,0,26-35
+no account,18,no credits/all paid,business,4165,A61,1-4 years,2,A93,A101,2,A123,36,A142,A152,2,A173,2,A191,A201,0,36-45
+<0 DM,36,existing paid,car (used),8335,A65,>=7 years,3,A93,A101,4,A124,47,A143,A153,1,A173,1,A191,A201,0,46-55
+0-200 DM,48,delay paid,business,6681,A65,1-4 years,4,A93,A101,4,A124,38,A143,A153,1,A173,2,A192,A201,1,36-45
+no account,24,delay paid,business,2375,A63,1-4 years,4,A93,A101,2,A123,44,A143,A152,2,A173,2,A192,A201,1,36-45
+<0 DM,18,existing paid,car (new),1216,A61,<1 year,4,A92,A101,3,A123,23,A143,A151,1,A173,1,A192,A201,0,18-25
+<0 DM,45,no credits/all paid,business,11816,A61,>=7 years,2,A93,A101,4,A123,29,A143,A151,2,A173,1,A191,A201,0,26-35
+0-200 DM,24,existing paid,radio/TV,5084,A65,>=7 years,2,A92,A101,4,A123,42,A143,A152,1,A173,1,A192,A201,1,36-45
+>=200 DM,15,existing paid,radio/TV,2327,A61,<1 year,2,A92,A101,3,A121,25,A143,A152,1,A172,1,A191,A201,0,18-25
+<0 DM,12,no credits/all paid,car (new),1082,A61,1-4 years,4,A93,A101,4,A123,48,A141,A152,2,A173,1,A191,A201,0,46-55
+no account,12,existing paid,radio/TV,886,A65,1-4 years,4,A92,A101,2,A123,21,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,4,existing paid,furniture/equipment,601,A61,<1 year,1,A92,A101,3,A121,23,A143,A151,1,A172,2,A191,A201,1,18-25
+<0 DM,24,critical/other,car (used),2957,A61,>=7 years,4,A93,A101,4,A122,63,A143,A152,2,A173,1,A192,A201,1,56-65
+no account,24,critical/other,radio/TV,2611,A61,>=7 years,4,A94,A102,3,A121,46,A143,A152,2,A173,1,A191,A201,1,46-55
+<0 DM,36,existing paid,furniture/equipment,5179,A61,4-7 years,4,A93,A101,2,A122,29,A143,A152,1,A173,1,A191,A201,0,26-35
+no account,21,delay paid,car (used),2993,A61,1-4 years,3,A93,A101,2,A121,28,A142,A152,2,A172,1,A191,A201,1,26-35
+no account,18,existing paid,repairs,1943,A61,<1 year,4,A92,A101,4,A121,23,A143,A152,1,A173,1,A191,A201,0,18-25
+no account,24,all paid,business,1559,A61,4-7 years,4,A93,A101,4,A123,50,A141,A152,1,A173,1,A192,A201,1,46-55
+no account,18,existing paid,furniture/equipment,3422,A61,>=7 years,4,A93,A101,4,A122,47,A141,A152,3,A173,2,A192,A201,1,46-55
+0-200 DM,21,existing paid,furniture/equipment,3976,A65,4-7 years,2,A93,A101,3,A123,35,A143,A152,1,A173,1,A192,A201,1,26-35
+no account,18,existing paid,car (new),6761,A65,1-4 years,2,A93,A101,4,A123,68,A143,A151,2,A173,1,A191,A201,0,66+
+no account,24,existing paid,car (new),1249,A61,<1 year,4,A94,A101,2,A121,28,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,9,existing paid,radio/TV,1364,A61,4-7 years,3,A93,A101,4,A121,59,A143,A152,1,A173,1,A191,A201,1,56-65
+<0 DM,12,existing paid,radio/TV,709,A61,>=7 years,4,A93,A101,4,A121,57,A142,A152,1,A172,1,A191,A201,0,56-65
+<0 DM,20,critical/other,car (new),2235,A61,1-4 years,4,A94,A103,2,A122,33,A141,A151,2,A173,1,A191,A202,0,26-35
+no account,24,critical/other,car (used),4042,A65,4-7 years,3,A93,A101,4,A122,43,A143,A152,2,A173,1,A192,A201,1,36-45
+no account,15,critical/other,radio/TV,1471,A61,1-4 years,4,A93,A101,4,A124,35,A143,A153,2,A173,1,A192,A201,1,26-35
+<0 DM,18,all paid,car (new),1442,A61,4-7 years,4,A93,A101,4,A124,32,A143,A153,2,A172,2,A191,A201,0,26-35
+no account,36,delay paid,car (new),10875,A61,>=7 years,2,A93,A101,2,A123,45,A143,A152,2,A173,2,A192,A201,1,36-45
+no account,24,existing paid,car (new),1474,A62,<1 year,4,A94,A101,3,A121,33,A143,A152,1,A173,1,A192,A201,1,26-35
+no account,10,existing paid,retraining,894,A65,4-7 years,4,A92,A101,3,A122,40,A143,A152,1,A173,1,A192,A201,1,36-45
+no account,15,critical/other,furniture/equipment,3343,A61,1-4 years,4,A93,A101,2,A124,28,A143,A153,1,A173,1,A192,A201,1,26-35
+<0 DM,15,existing paid,car (new),3959,A61,1-4 years,3,A92,A101,2,A122,29,A143,A152,1,A173,1,A192,A201,0,26-35
+no account,9,existing paid,car (new),3577,A62,1-4 years,1,A93,A103,2,A121,26,A143,A151,1,A173,2,A191,A202,1,26-35
+no account,24,critical/other,car (used),5804,A64,1-4 years,4,A93,A101,2,A121,27,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,18,delay paid,business,2169,A61,1-4 years,4,A94,A101,2,A123,28,A143,A152,1,A173,1,A192,A201,0,26-35
+<0 DM,24,existing paid,radio/TV,2439,A61,<1 year,4,A92,A101,4,A121,35,A143,A152,1,A173,1,A192,A201,0,26-35
+no account,27,critical/other,furniture/equipment,4526,A64,<1 year,4,A93,A101,2,A121,32,A142,A152,2,A172,2,A192,A201,1,26-35
+no account,10,existing paid,furniture/equipment,2210,A61,1-4 years,2,A93,A101,2,A121,25,A141,A151,1,A172,1,A191,A201,0,18-25
+no account,15,existing paid,furniture/equipment,2221,A63,1-4 years,2,A92,A101,4,A123,20,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,18,existing paid,radio/TV,2389,A61,<1 year,4,A92,A101,1,A123,27,A142,A152,1,A173,1,A191,A201,1,26-35
+no account,12,critical/other,furniture/equipment,3331,A61,>=7 years,2,A93,A101,4,A122,42,A142,A152,1,A173,1,A191,A201,1,36-45
+no account,36,existing paid,business,7409,A65,>=7 years,3,A93,A101,2,A122,37,A143,A152,2,A173,1,A191,A201,1,36-45
+<0 DM,12,existing paid,furniture/equipment,652,A61,>=7 years,4,A92,A101,4,A122,24,A143,A151,1,A173,1,A191,A201,1,18-25
+no account,36,delay paid,furniture/equipment,7678,A63,4-7 years,2,A92,A101,4,A123,40,A143,A152,2,A173,1,A192,A201,1,36-45
+>=200 DM,6,critical/other,car (new),1343,A61,>=7 years,1,A93,A101,4,A121,46,A143,A152,2,A173,2,A191,A202,1,46-55
+<0 DM,24,critical/other,business,1382,A62,4-7 years,4,A93,A101,1,A121,26,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,15,existing paid,domestic appliances,874,A65,<1 year,4,A92,A101,1,A121,24,A143,A152,1,A173,1,A191,A201,1,18-25
+<0 DM,12,existing paid,furniture/equipment,3590,A61,1-4 years,2,A93,A102,2,A122,29,A143,A152,1,A172,2,A191,A201,1,26-35
+0-200 DM,11,critical/other,car (new),1322,A64,1-4 years,4,A92,A101,4,A123,40,A143,A152,2,A173,1,A191,A201,1,36-45
+<0 DM,18,all paid,radio/TV,1940,A61,<1 year,3,A93,A102,4,A124,36,A141,A153,1,A174,1,A192,A201,1,36-45
+no account,36,existing paid,radio/TV,3595,A61,>=7 years,4,A93,A101,2,A123,28,A143,A152,1,A173,1,A191,A201,1,26-35
+<0 DM,9,existing paid,car (new),1422,A61,<1 year,3,A93,A101,2,A124,27,A143,A153,1,A174,1,A192,A201,0,26-35
+no account,30,critical/other,radio/TV,6742,A65,4-7 years,2,A93,A101,3,A122,36,A143,A152,2,A173,1,A191,A201,1,36-45
+no account,24,existing paid,car (used),7814,A61,4-7 years,3,A93,A101,3,A123,38,A143,A152,1,A174,1,A192,A201,1,36-45
+no account,24,existing paid,car (used),9277,A65,1-4 years,2,A91,A101,4,A124,48,A143,A153,1,A173,1,A192,A201,1,46-55
+0-200 DM,30,critical/other,car (new),2181,A65,>=7 years,4,A93,A101,4,A121,36,A143,A152,2,A173,1,A191,A201,1,36-45
+no account,18,critical/other,radio/TV,1098,A61,unemployed,4,A92,A101,4,A123,65,A143,A152,2,A171,1,A191,A201,1,56-65
+0-200 DM,24,existing paid,furniture/equipment,4057,A61,4-7 years,3,A91,A101,3,A123,43,A143,A152,1,A173,1,A192,A201,0,36-45
+<0 DM,12,existing paid,education,795,A61,<1 year,4,A92,A101,4,A122,53,A143,A152,1,A173,1,A191,A201,0,46-55
+0-200 DM,24,critical/other,business,2825,A65,4-7 years,4,A93,A101,3,A124,34,A143,A152,2,A173,2,A192,A201,1,26-35
+0-200 DM,48,existing paid,business,15672,A61,1-4 years,2,A93,A101,2,A123,23,A143,A152,1,A173,1,A192,A201,0,18-25
+no account,36,critical/other,car (new),6614,A61,>=7 years,4,A93,A101,4,A123,34,A143,A152,2,A174,1,A192,A201,1,26-35
+no account,28,all paid,car (used),7824,A65,<1 year,3,A93,A103,4,A121,40,A141,A151,2,A173,2,A192,A201,1,36-45
+<0 DM,27,critical/other,business,2442,A61,>=7 years,4,A93,A101,4,A123,43,A142,A152,4,A174,2,A192,A201,1,36-45
+no account,15,critical/other,radio/TV,1829,A61,>=7 years,4,A93,A101,4,A123,46,A143,A152,2,A173,1,A192,A201,1,46-55
+<0 DM,12,critical/other,car (new),2171,A61,1-4 years,4,A93,A101,4,A122,38,A141,A152,2,A172,1,A191,A202,1,36-45
+0-200 DM,36,critical/other,car (used),5800,A61,1-4 years,3,A93,A101,4,A123,34,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,18,critical/other,radio/TV,1169,A65,1-4 years,4,A93,A101,3,A122,29,A143,A152,2,A173,1,A192,A201,1,26-35
+no account,36,delay paid,car (used),8947,A65,4-7 years,3,A93,A101,2,A123,31,A142,A152,1,A174,2,A192,A201,1,26-35
+<0 DM,21,existing paid,radio/TV,2606,A61,<1 year,4,A92,A101,4,A122,28,A143,A151,1,A174,1,A192,A201,1,26-35
+no account,12,critical/other,furniture/equipment,1592,A64,4-7 years,3,A92,A101,2,A122,35,A143,A152,1,A173,1,A191,A202,1,26-35
+no account,15,existing paid,furniture/equipment,2186,A65,4-7 years,1,A92,A101,4,A121,33,A141,A151,1,A172,1,A191,A201,1,26-35
+<0 DM,18,existing paid,furniture/equipment,4153,A61,1-4 years,2,A93,A102,3,A123,42,A143,A152,1,A173,1,A191,A201,0,36-45
+<0 DM,16,critical/other,car (new),2625,A61,>=7 years,2,A93,A103,4,A122,43,A141,A151,1,A173,1,A192,A201,0,36-45
+no account,20,critical/other,car (new),3485,A65,<1 year,2,A91,A101,4,A121,44,A143,A152,2,A173,1,A192,A201,1,36-45
+no account,36,critical/other,car (used),10477,A65,>=7 years,2,A93,A101,4,A124,42,A143,A153,2,A173,1,A191,A201,1,36-45
+no account,15,existing paid,radio/TV,1386,A65,1-4 years,4,A94,A101,2,A121,40,A143,A151,1,A173,1,A192,A201,1,36-45
+no account,24,existing paid,radio/TV,1278,A61,>=7 years,4,A93,A101,1,A121,36,A143,A152,1,A174,1,A192,A201,1,36-45
+<0 DM,12,existing paid,radio/TV,1107,A61,1-4 years,2,A93,A101,2,A121,20,A143,A151,1,A174,2,A192,A201,1,18-25
+<0 DM,21,existing paid,car (new),3763,A65,4-7 years,2,A93,A102,2,A121,24,A143,A152,1,A172,1,A191,A202,1,18-25
+0-200 DM,36,existing paid,education,3711,A65,1-4 years,2,A94,A101,2,A123,27,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,15,delay paid,car (used),3594,A61,<1 year,1,A92,A101,2,A122,46,A143,A152,2,A172,1,A191,A201,1,46-55
+0-200 DM,9,existing paid,car (new),3195,A65,1-4 years,1,A92,A101,2,A121,33,A143,A152,1,A172,1,A191,A201,1,26-35
+no account,36,delay paid,radio/TV,4454,A61,1-4 years,4,A92,A101,4,A121,34,A143,A152,2,A173,1,A191,A201,1,26-35
+0-200 DM,24,critical/other,furniture/equipment,4736,A61,<1 year,2,A92,A101,4,A123,25,A141,A152,1,A172,1,A191,A201,0,18-25
+0-200 DM,30,existing paid,radio/TV,2991,A65,>=7 years,2,A92,A101,4,A123,25,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,11,existing paid,business,2142,A64,>=7 years,1,A91,A101,2,A121,28,A143,A152,1,A173,1,A192,A201,1,26-35
+<0 DM,24,all paid,business,3161,A61,1-4 years,4,A93,A101,2,A122,31,A143,A151,1,A173,1,A192,A201,0,26-35
+0-200 DM,48,no credits/all paid,others,18424,A61,1-4 years,1,A92,A101,2,A122,32,A141,A152,1,A174,1,A192,A202,0,26-35
+no account,10,existing paid,car (used),2848,A62,1-4 years,1,A93,A102,2,A121,32,A143,A152,1,A173,2,A191,A201,1,26-35
+<0 DM,6,existing paid,car (new),14896,A61,>=7 years,1,A93,A101,4,A124,68,A141,A152,1,A174,1,A192,A201,0,66+
+<0 DM,24,existing paid,furniture/equipment,2359,A62,unemployed,1,A91,A101,1,A122,33,A143,A152,1,A173,1,A191,A201,0,26-35
+<0 DM,24,existing paid,furniture/equipment,3345,A61,>=7 years,4,A93,A101,2,A122,39,A143,A151,1,A174,1,A192,A201,0,36-45
+no account,18,critical/other,furniture/equipment,1817,A61,1-4 years,4,A92,A101,2,A124,28,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,48,delay paid,radio/TV,12749,A63,4-7 years,4,A93,A101,1,A123,37,A143,A152,1,A174,1,A192,A201,1,36-45
+<0 DM,9,existing paid,radio/TV,1366,A61,<1 year,3,A92,A101,4,A122,22,A143,A151,1,A173,1,A191,A201,0,18-25
+0-200 DM,12,existing paid,car (new),2002,A61,4-7 years,3,A93,A101,4,A122,30,A143,A151,1,A173,2,A192,A201,1,26-35
+<0 DM,24,all paid,furniture/equipment,6872,A61,<1 year,2,A91,A101,1,A122,55,A141,A152,1,A173,1,A192,A201,0,46-55
+<0 DM,12,all paid,car (new),697,A61,<1 year,4,A93,A101,2,A123,46,A141,A152,2,A173,1,A192,A201,0,46-55
+<0 DM,18,critical/other,furniture/equipment,1049,A61,<1 year,4,A92,A101,4,A122,21,A143,A151,1,A173,1,A191,A201,1,18-25
+<0 DM,48,existing paid,car (used),10297,A61,4-7 years,4,A93,A101,4,A124,39,A142,A153,3,A173,2,A192,A201,0,36-45
+no account,30,existing paid,radio/TV,1867,A65,>=7 years,4,A93,A101,4,A123,58,A143,A152,1,A173,1,A192,A201,1,56-65
+<0 DM,12,delay paid,car (new),1344,A61,1-4 years,4,A93,A101,2,A121,43,A143,A152,2,A172,2,A191,A201,1,36-45
+<0 DM,24,existing paid,furniture/equipment,1747,A61,<1 year,4,A93,A102,1,A122,24,A143,A152,1,A172,1,A191,A202,1,18-25
+0-200 DM,9,existing paid,radio/TV,1670,A61,<1 year,4,A92,A101,2,A123,22,A143,A152,1,A173,1,A192,A201,0,18-25
+no account,9,critical/other,car (new),1224,A61,1-4 years,3,A93,A101,1,A121,30,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,12,critical/other,radio/TV,522,A63,>=7 years,4,A93,A101,4,A122,42,A143,A152,2,A173,2,A192,A201,1,36-45
+<0 DM,12,existing paid,radio/TV,1498,A61,1-4 years,4,A92,A101,1,A123,23,A141,A152,1,A173,1,A191,A201,1,18-25
+0-200 DM,30,delay paid,radio/TV,1919,A62,<1 year,4,A93,A101,3,A124,30,A142,A152,2,A174,1,A191,A201,0,26-35
+>=200 DM,9,existing paid,radio/TV,745,A61,1-4 years,3,A92,A101,2,A121,28,A143,A152,1,A172,1,A191,A201,0,26-35
+0-200 DM,6,existing paid,radio/TV,2063,A61,<1 year,4,A94,A101,3,A123,30,A143,A151,1,A174,1,A192,A201,1,26-35
+0-200 DM,60,existing paid,education,6288,A61,1-4 years,4,A93,A101,4,A124,42,A143,A153,1,A173,1,A191,A201,0,36-45
+no account,24,critical/other,car (used),6842,A65,1-4 years,2,A93,A101,4,A122,46,A143,A152,2,A174,2,A192,A201,1,46-55
+no account,12,existing paid,car (new),3527,A65,<1 year,2,A93,A101,3,A122,45,A143,A152,1,A174,2,A192,A201,1,36-45
+no account,10,existing paid,car (new),1546,A61,1-4 years,3,A93,A101,2,A121,31,A143,A152,1,A172,2,A191,A202,1,26-35
+no account,24,existing paid,furniture/equipment,929,A65,4-7 years,4,A93,A101,2,A123,31,A142,A152,1,A173,1,A192,A201,1,26-35
+no account,4,critical/other,car (new),1455,A61,4-7 years,2,A93,A101,1,A121,42,A143,A152,3,A172,2,A191,A201,1,36-45
+<0 DM,15,existing paid,furniture/equipment,1845,A61,<1 year,4,A92,A103,1,A122,46,A143,A151,1,A173,1,A191,A201,1,46-55
+0-200 DM,48,no credits/all paid,car (new),8358,A63,<1 year,1,A92,A101,1,A123,30,A143,A152,2,A173,1,A191,A201,1,26-35
+<0 DM,24,all paid,furniture/equipment,3349,A63,<1 year,4,A93,A101,4,A124,30,A143,A153,1,A173,2,A192,A201,0,26-35
+no account,12,existing paid,car (new),2859,A65,unemployed,4,A93,A101,4,A124,38,A143,A152,1,A174,1,A192,A201,1,36-45
+no account,18,existing paid,furniture/equipment,1533,A61,<1 year,4,A94,A102,1,A122,43,A143,A152,1,A172,2,A191,A201,0,36-45
+no account,24,existing paid,radio/TV,3621,A62,>=7 years,2,A93,A101,4,A123,31,A143,A152,2,A173,1,A191,A201,0,26-35
+0-200 DM,18,critical/other,business,3590,A61,unemployed,3,A94,A101,3,A123,40,A143,A152,3,A171,2,A192,A201,1,36-45
+<0 DM,36,delay paid,business,2145,A61,4-7 years,2,A93,A101,1,A123,24,A143,A152,2,A173,1,A192,A201,0,18-25
+0-200 DM,24,existing paid,car (used),4113,A63,<1 year,3,A92,A101,4,A123,28,A143,A151,1,A173,1,A191,A201,0,26-35
+no account,36,existing paid,furniture/equipment,10974,A61,unemployed,4,A92,A101,2,A123,26,A143,A152,2,A174,1,A192,A201,0,26-35
+<0 DM,12,existing paid,car (new),1893,A61,1-4 years,4,A92,A103,4,A122,29,A143,A152,1,A173,1,A192,A201,1,26-35
+<0 DM,24,critical/other,radio/TV,1231,A64,>=7 years,4,A92,A101,4,A122,57,A143,A151,2,A174,1,A192,A201,1,56-65
+>=200 DM,30,critical/other,radio/TV,3656,A65,>=7 years,4,A93,A101,4,A122,49,A142,A152,2,A172,1,A191,A201,1,46-55
+0-200 DM,9,critical/other,radio/TV,1154,A61,>=7 years,2,A93,A101,4,A121,37,A143,A152,3,A172,1,A191,A201,1,36-45
+<0 DM,28,existing paid,car (new),4006,A61,1-4 years,3,A93,A101,2,A123,45,A143,A152,1,A172,1,A191,A201,0,36-45
+0-200 DM,24,existing paid,furniture/equipment,3069,A62,>=7 years,4,A93,A101,4,A124,30,A143,A153,1,A173,1,A191,A201,1,26-35
+no account,6,critical/other,radio/TV,1740,A61,>=7 years,2,A94,A101,2,A121,30,A143,A151,2,A173,1,A191,A201,1,26-35
+0-200 DM,21,delay paid,car (new),2353,A61,1-4 years,1,A91,A101,4,A122,47,A143,A152,2,A173,1,A191,A201,1,46-55
+no account,15,existing paid,car (new),3556,A65,1-4 years,3,A93,A101,2,A124,29,A143,A152,1,A173,1,A191,A201,1,26-35
+no account,24,existing paid,radio/TV,2397,A63,>=7 years,3,A93,A101,2,A123,35,A141,A152,2,A173,1,A192,A201,0,26-35
+0-200 DM,6,existing paid,repairs,454,A61,<1 year,3,A94,A101,1,A122,22,A143,A152,1,A172,1,A191,A201,1,18-25
+0-200 DM,30,existing paid,radio/TV,1715,A65,1-4 years,4,A92,A101,1,A123,26,A143,A152,1,A173,1,A191,A201,1,26-35
+0-200 DM,27,critical/other,radio/TV,2520,A63,1-4 years,4,A93,A101,2,A122,23,A143,A152,2,A172,1,A191,A201,0,18-25
+no account,15,existing paid,radio/TV,3568,A61,>=7 years,4,A92,A101,2,A123,54,A141,A151,1,A174,1,A192,A201,1,46-55
+no account,42,existing paid,radio/TV,7166,A65,4-7 years,2,A94,A101,4,A122,29,A143,A151,1,A173,1,A192,A201,1,26-35
+<0 DM,11,critical/other,car (new),3939,A61,1-4 years,1,A93,A101,2,A121,40,A143,A152,2,A172,2,A191,A201,1,36-45
+0-200 DM,15,existing paid,repairs,1514,A62,1-4 years,4,A93,A103,2,A121,22,A143,A152,1,A173,1,A191,A201,1,18-25
+no account,24,existing paid,car (new),7393,A61,1-4 years,1,A93,A101,4,A122,43,A143,A152,1,A172,2,A191,A201,1,36-45
+<0 DM,24,all paid,car (new),1193,A61,unemployed,1,A92,A102,4,A124,29,A143,A151,2,A171,1,A191,A201,0,26-35
+<0 DM,60,existing paid,business,7297,A61,>=7 years,4,A93,A102,4,A124,36,A143,A151,1,A173,1,A191,A201,0,36-45
+no account,30,critical/other,radio/TV,2831,A61,1-4 years,4,A92,A101,2,A123,33,A143,A152,1,A173,1,A192,A201,1,26-35
+>=200 DM,24,existing paid,radio/TV,1258,A63,1-4 years,3,A92,A101,3,A123,57,A143,A152,1,A172,1,A191,A201,1,56-65
+0-200 DM,6,existing paid,radio/TV,753,A61,1-4 years,2,A92,A103,3,A121,64,A143,A152,1,A173,1,A191,A201,1,56-65
+0-200 DM,18,delay paid,business,2427,A65,>=7 years,4,A93,A101,2,A122,42,A143,A152,2,A173,1,A191,A201,1,36-45
+no account,24,delay paid,car (new),2538,A61,>=7 years,4,A93,A101,4,A123,47,A143,A152,2,A172,2,A191,A201,0,46-55
+0-200 DM,15,all paid,car (new),1264,A62,1-4 years,2,A94,A101,2,A122,25,A143,A151,1,A173,1,A191,A201,0,18-25
+0-200 DM,30,critical/other,furniture/equipment,8386,A61,4-7 years,2,A93,A101,2,A122,49,A143,A152,1,A173,1,A191,A201,0,46-55
+no account,48,existing paid,business,4844,A61,unemployed,3,A93,A101,2,A123,33,A141,A151,1,A174,1,A192,A201,0,26-35
+>=200 DM,21,existing paid,car (new),2923,A62,1-4 years,1,A92,A101,1,A123,28,A141,A152,1,A174,1,A192,A201,1,26-35
+<0 DM,36,existing paid,car (used),8229,A61,1-4 years,2,A93,A101,2,A122,26,A143,A152,1,A173,2,A191,A201,0,26-35
+no account,24,critical/other,furniture/equipment,2028,A61,4-7 years,2,A93,A101,2,A122,30,A143,A152,2,A172,1,A191,A201,1,26-35
+<0 DM,15,critical/other,furniture/equipment,1433,A61,1-4 years,4,A92,A101,3,A122,25,A143,A151,2,A173,1,A191,A201,1,18-25
+>=200 DM,42,no credits/all paid,business,6289,A61,<1 year,2,A91,A101,1,A122,33,A143,A152,2,A173,1,A191,A201,1,26-35
+no account,13,existing paid,radio/TV,1409,A62,unemployed,2,A92,A101,4,A121,64,A143,A152,1,A173,1,A191,A201,1,56-65
+<0 DM,24,existing paid,car (used),6579,A61,unemployed,4,A93,A101,2,A124,29,A143,A153,1,A174,1,A192,A201,1,26-35
+0-200 DM,24,critical/other,radio/TV,1743,A61,>=7 years,4,A93,A101,2,A122,48,A143,A152,2,A172,1,A191,A201,1,46-55
+no account,12,critical/other,education,3565,A65,<1 year,2,A93,A101,1,A122,37,A143,A152,2,A172,2,A191,A201,1,36-45
+no account,15,all paid,radio/TV,1569,A62,>=7 years,4,A93,A101,4,A123,34,A141,A152,1,A172,2,A191,A201,1,26-35
+<0 DM,18,existing paid,radio/TV,1936,A65,4-7 years,2,A94,A101,4,A123,23,A143,A151,2,A172,1,A191,A201,1,18-25
+<0 DM,36,existing paid,furniture/equipment,3959,A61,unemployed,4,A93,A101,3,A122,30,A143,A152,1,A174,1,A192,A201,1,26-35
+no account,12,existing paid,car (new),2390,A65,>=7 years,4,A93,A101,3,A123,50,A143,A152,1,A173,1,A192,A201,1,46-55
+no account,12,existing paid,furniture/equipment,1736,A61,4-7 years,3,A92,A101,4,A121,31,A143,A152,1,A172,1,A191,A201,1,26-35
+<0 DM,30,existing paid,car (used),3857,A61,1-4 years,4,A91,A101,4,A122,40,A143,A152,1,A174,1,A192,A201,1,36-45
+no account,12,existing paid,radio/TV,804,A61,>=7 years,4,A93,A101,4,A123,38,A143,A152,1,A173,1,A191,A201,1,36-45
+<0 DM,45,existing paid,radio/TV,1845,A61,1-4 years,4,A93,A101,4,A124,23,A143,A153,1,A173,1,A192,A201,0,18-25
+0-200 DM,45,critical/other,car (used),4576,A62,unemployed,3,A93,A101,4,A123,27,A143,A152,1,A173,1,A191,A201,1,26-35
